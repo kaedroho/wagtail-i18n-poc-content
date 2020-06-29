@@ -8,8 +8,8 @@ msgstr ""
 
 msgctxt "title"
 msgid "Locations"
-msgstr "This is a test"
+msgstr ""
 
 msgctxt "introduction"
 msgid "You can find our fine bakeries in friendly cities all over the world."
-msgstr "foo"
+msgstr ""
