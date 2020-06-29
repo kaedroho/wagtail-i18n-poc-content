@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2020-06-29 17:38:06.163844+00:00\n"
+"POT-Creation-Date: 2020-06-29 17:38:59.623404+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "X-WagtailLocalize-TranslationRequestID: 4f7e9915-b0cf-450a-acb4-5827dcec0fe6\n"
