@@ -12,7 +12,7 @@ msgstr "asfasdfasdf"
 
 msgctxt "subtitle"
 msgid "Banana toffee chocolate pie?"
-msgstr ""
+msgstr "ASDasdss"
 
 msgctxt "introduction"
 msgid "A Boston cream pie is a yellow butter cake that is filled with custard or cream and topped with chocolate glaze."
