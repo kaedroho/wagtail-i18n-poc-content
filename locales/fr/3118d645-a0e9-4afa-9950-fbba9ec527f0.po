@@ -1,10 +1,10 @@
 #
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2020-06-29 17:09:17.417039+00:00\n"
+"POT-Creation-Date: 2020-06-29 17:38:04.739205+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationRequestID: 779bd35e-5e4c-4095-8344-f43cf8926d3b\n"
+"X-WagtailLocalize-TranslationRequestID: d58d2b02-a430-4bbe-a879-ae74a7e7dc52\n"
 
 msgctxt "title"
 msgid "Bammy"

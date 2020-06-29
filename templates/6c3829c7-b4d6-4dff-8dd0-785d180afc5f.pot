@@ -1,10 +1,9 @@
 #
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2020-06-29 17:09:19.134938+00:00\n"
+"POT-Creation-Date: 2020-06-29 17:38:06.011321+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationRequestID: 60732226-0e31-423d-9619-06c7df37b2e5\n"
 
 msgctxt "title"
 msgid "The Greatest Thing Since Sliced Bread"

@@ -1,10 +1,10 @@
 #
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2020-06-29 17:09:16.723415+00:00\n"
+"POT-Creation-Date: 2020-06-29 17:38:04.387073+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationRequestID: 7c015466-99af-4c1b-a18f-5d0fc50f25e0\n"
+"X-WagtailLocalize-TranslationRequestID: a69932b5-1509-47ee-b508-464a6201a544\n"
 
 msgctxt "title"
 msgid "Anadama"

@@ -1,10 +1,10 @@
 #
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2020-06-29 17:09:16.822354+00:00\n"
+"POT-Creation-Date: 2020-06-29 17:38:04.449030+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationRequestID: df5791b9-03b8-476c-b442-69812393f485\n"
+"X-WagtailLocalize-TranslationRequestID: 6bfc39d3-86a5-4f83-bbc8-ce4fa8bb1646\n"
 
 msgctxt "title"
 msgid "Anpan"

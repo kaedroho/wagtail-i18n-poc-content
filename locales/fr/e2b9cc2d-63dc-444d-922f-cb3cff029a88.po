@@ -1,10 +1,10 @@
 #
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2020-06-29 17:09:18.088060+00:00\n"
+"POT-Creation-Date: 2020-06-29 17:38:05.199047+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationRequestID: 872856b0-3aa2-48e5-b18d-f41850ee7ab2\n"
+"X-WagtailLocalize-TranslationRequestID: 68fc2319-45b0-4b3b-9438-bef415cb66db\n"
 
 msgctxt "title"
 msgid "Reykjavik"

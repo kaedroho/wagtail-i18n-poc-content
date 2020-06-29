@@ -1,10 +1,10 @@
 #
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2020-06-29 17:09:19.474674+00:00\n"
+"POT-Creation-Date: 2020-06-29 17:38:06.274584+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationRequestID: 751fd1b2-307b-49be-9fb2-f338781bb160\n"
+"X-WagtailLocalize-TranslationRequestID: d256d1b0-ecb6-4602-9af8-405aeeb60494\n"
 
 msgctxt "title"
 msgid "Contact Us"

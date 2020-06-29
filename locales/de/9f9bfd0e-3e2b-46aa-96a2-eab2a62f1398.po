@@ -1,10 +1,10 @@
 #
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2020-06-29 17:09:17.273195+00:00\n"
+"POT-Creation-Date: 2020-06-29 17:38:04.720989+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationRequestID: 35dccc24-82da-4536-acc0-dd8818b65fef\n"
+"X-WagtailLocalize-TranslationRequestID: c68ec370-ddfb-4fc0-a809-89095320361a\n"
 
 msgctxt "title"
 msgid "Baguette"
