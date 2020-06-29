@@ -1,0 +1,15 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-06-29 17:09:17.738444+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationRequestID: 4f6751c0-55a1-408e-9b1c-a5352a8d88f0\n"
+
+msgctxt "title"
+msgid "Black bread"
+msgstr ""
+
+msgctxt "introduction"
+msgid "Rye bread is a type of bread made with various proportions of flour from rye grain"
+msgstr ""

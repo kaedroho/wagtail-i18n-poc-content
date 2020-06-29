@@ -1,0 +1,15 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-06-29 17:09:16.921395+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationRequestID: e82e3fd8-29fc-461b-b415-0c02187cc656\n"
+
+msgctxt "title"
+msgid "Appam"
+msgstr ""
+
+msgctxt "introduction"
+msgid "Appam is a type of pancake made with fermented rice batter and coconut milk. It is a common food in Kerala, Tamil Nadu and Sri Lanka. It is eaten most frequently for breakfast or dinner."
+msgstr ""

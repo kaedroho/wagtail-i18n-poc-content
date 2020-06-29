@@ -1,0 +1,131 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-06-29 17:09:19.680023+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationRequestID: 7137ed9e-972d-4521-9a37-6c1e0062f554\n"
+
+msgctxt "title"
+msgid "About"
+msgstr ""
+
+msgctxt "introduction"
+msgid "Things to know about this demo site"
+msgstr ""
+
+msgctxt "body.739753c6-fa0b-4d98-a584-e8d2ed1b6a08"
+msgid "Welcome to the Wagtail Demo Site!"
+msgstr ""
+
+msgctxt "body.739753c6-fa0b-4d98-a584-e8d2ed1b6a08"
+msgid ""
+"If you've gotten this far, congratulations - you're running an instance of a killer content management system written for and on top of Django, <i>the framework for perfectionists with "
+"deadlines.</i>"
+msgstr ""
+
+msgctxt "body.739753c6-fa0b-4d98-a584-e8d2ed1b6a08"
+msgid "What does Wagtail get you that Django alone does not?"
+msgstr ""
+
+msgctxt "body.739753c6-fa0b-4d98-a584-e8d2ed1b6a08"
+msgid "Focus on content creators/managers, rather than developers (but developer-friendly!)"
+msgstr ""
+
+msgctxt "body.739753c6-fa0b-4d98-a584-e8d2ed1b6a08"
+msgid "&quot;Page-centric&quot; content modeling"
+msgstr ""
+
+msgctxt "body.739753c6-fa0b-4d98-a584-e8d2ed1b6a08"
+msgid "Beautiful, modern, intuitive user interface optimized for content people"
+msgstr ""
+
+msgctxt "body.739753c6-fa0b-4d98-a584-e8d2ed1b6a08"
+msgid "Super-powerful hierarchical content management (&quot;content trees&quot;)"
+msgstr ""
+
+msgctxt "body.739753c6-fa0b-4d98-a584-e8d2ed1b6a08"
+msgid "User- and group-based permissions system attached to content hierarchies"
+msgstr ""
+
+msgctxt "body.739753c6-fa0b-4d98-a584-e8d2ed1b6a08"
+msgid "Flexible image resizing with a ton of image display helpers"
+msgstr ""
+
+msgctxt "body.739753c6-fa0b-4d98-a584-e8d2ed1b6a08"
+msgid "Innovative \"<a id=\"a1\">StreamFields</a>\" as an alternative to traditional \"anything goes\" rich text fields"
+msgstr ""
+
+msgctxt "body.739753c6-fa0b-4d98-a584-e8d2ed1b6a08"
+msgid "Intuitive choosers for embedded Pages, Images, Documents and other content"
+msgstr ""
+
+msgctxt "body.739753c6-fa0b-4d98-a584-e8d2ed1b6a08"
+msgid "Native integration with ElasticSearch to help you build powerful search features"
+msgstr ""
+
+msgctxt "body.739753c6-fa0b-4d98-a584-e8d2ed1b6a08"
+msgid "Template tags to help create image renditions, smart links, and to navigate content trees"
+msgstr ""
+
+msgctxt "body.739753c6-fa0b-4d98-a584-e8d2ed1b6a08"
+msgid "If you&#39;re new to Wagtail, there are two primary paths to learning:"
+msgstr ""
+
+msgctxt "body.739753c6-fa0b-4d98-a584-e8d2ed1b6a08"
+msgid "The source code that powers this demo site"
+msgstr ""
+
+msgctxt "body.739753c6-fa0b-4d98-a584-e8d2ed1b6a08"
+msgid "The official <a id=\"a1\">tutorial</a>"
+msgstr ""
+
+msgctxt "body.739753c6-fa0b-4d98-a584-e8d2ed1b6a08"
+msgid "Wagtail Features Demonstrated in This Demo"
+msgstr ""
+
+msgctxt "body.739753c6-fa0b-4d98-a584-e8d2ed1b6a08"
+msgid ""
+"This demo is aimed primarily at developers wanting to learn more about the internals of Wagtail, and assumes you&#39;ll be reading its source code. After browsing the features, pay special attention"
+" to code we&#39;ve used for:"
+msgstr ""
+
+msgctxt "body.739753c6-fa0b-4d98-a584-e8d2ed1b6a08"
+msgid "Dividing a project up into multiple apps"
+msgstr ""
+
+msgctxt "body.739753c6-fa0b-4d98-a584-e8d2ed1b6a08"
+msgid "Custom content models and &quot;contexts&quot; in the &quot;breads&quot; and &quot;locations&quot; apps"
+msgstr ""
+
+msgctxt "body.739753c6-fa0b-4d98-a584-e8d2ed1b6a08"
+msgid "A typical weblog in the &quot;blog&quot; app"
+msgstr ""
+
+msgctxt "body.739753c6-fa0b-4d98-a584-e8d2ed1b6a08"
+msgid "Example of using a &quot;base&quot; app to contain misc additional functionality (e.g. Contact Form, About, etc.)"
+msgstr ""
+
+msgctxt "body.739753c6-fa0b-4d98-a584-e8d2ed1b6a08"
+msgid "&quot;StandardPage&quot; model using mixins borrowed from other apps"
+msgstr ""
+
+msgctxt "body.739753c6-fa0b-4d98-a584-e8d2ed1b6a08"
+msgid "Example of customizing the Wagtail Admin via <i>wagtail_hooks</i>"
+msgstr ""
+
+msgctxt "body.739753c6-fa0b-4d98-a584-e8d2ed1b6a08"
+msgid "Example of using the Wagtail &quot;snippets&quot; system to represent bread categories, countries and ingredients"
+msgstr ""
+
+msgctxt "body.739753c6-fa0b-4d98-a584-e8d2ed1b6a08"
+msgid "Example of a custom &quot;Galleries&quot; feature that pulls in images used in other content types in the system"
+msgstr ""
+
+msgctxt "body.739753c6-fa0b-4d98-a584-e8d2ed1b6a08"
+msgid "Example of creating ManyToMany relationships via the Ingredients feature on BreadPage"
+msgstr ""
+
+msgctxt "body.739753c6-fa0b-4d98-a584-e8d2ed1b6a08"
+msgid "Lots more"
+msgstr ""

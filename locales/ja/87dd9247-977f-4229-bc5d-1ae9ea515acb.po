@@ -1,0 +1,38 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-06-29 17:09:18.199979+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationRequestID: e58b4b9d-b906-40a0-b391-751975d13ae2\n"
+
+msgctxt "title"
+msgid "Vik"
+msgstr ""
+
+msgctxt "introduction"
+msgid "Chocolate bar tiramisu toffee. Topping pie powder candy canes jujubes liquorice. Apple pie muffin marshmallow tiramisu powder cotton candy topping. Apple pie tiramisu marshmallow sesame snaps."
+msgstr ""
+
+msgctxt "body.daf787ad-83e2-4498-8387-fbf523283017"
+msgid ""
+"Cupcake ipsum dolor sit. Amet cake bear claw cheesecake marshmallow donut topping. Bonbon tootsie roll tiramisu dragée. Sweet macaroon gummies tootsie roll toffee cupcake jujubes gingerbread. "
+"Chocolate bar cupcake danish muffin donut cookie soufflé carrot cake. Cake cake macaroon muffin sesame snaps marzipan apple pie cheesecake."
+msgstr ""
+
+msgctxt "body.ec31f9f7-310c-4fcf-8efe-749770bc330d.heading_text"
+msgid "Now with sugar"
+msgstr ""
+
+msgctxt "body.0dad47f6-6706-49b9-aed9-be3c1eba5300"
+msgid ""
+"Chocolate caramels cupcake jelly beans icing gummi bears fruitcake gingerbread. Cupcake dragée tootsie roll cheesecake chocolate. Jelly lemon drops lemon drops chocolate. Sesame snaps chocolate bar "
+"cheesecake tiramisu gummi bears sweet sesame snaps wafer. Pie cake macaroon sugar plum toffee icing. Bonbon sweet roll cupcake sesame snaps toffee candy fruitcake."
+msgstr ""
+
+msgctxt "body.0dad47f6-6706-49b9-aed9-be3c1eba5300"
+msgid ""
+"Cupcake cupcake soufflé jelly beans chocolate cake lemon drops. Dessert chocolate bar cotton candy. Pastry icing oat cake wafer. Marshmallow topping gummies cotton candy cake gingerbread. Donut "
+"macaroon carrot cake. Pie candy canes cupcake powder marzipan. Sweet oat cake jelly beans apple pie ice cream. Brownie caramels chupa chups marzipan. Biscuit biscuit croissant fruitcake pastry "
+"pastry."
+msgstr ""

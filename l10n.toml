@@ -1,2 +1,361 @@
 locales = [ "de", "fr", "ja",]
-paths = []
+[[paths]]
+reference = "templates/fb1271d1-9ab2-41f4-966e-fcc854b72f73.pot"
+l10n = "locales/{locale}/fb1271d1-9ab2-41f4-966e-fcc854b72f73.po"
+
+[[paths]]
+reference = "templates/fb1271d1-9ab2-41f4-966e-fcc854b72f73.pot"
+l10n = "locales/{locale}/fb1271d1-9ab2-41f4-966e-fcc854b72f73.po"
+
+[[paths]]
+reference = "templates/fb1271d1-9ab2-41f4-966e-fcc854b72f73.pot"
+l10n = "locales/{locale}/fb1271d1-9ab2-41f4-966e-fcc854b72f73.po"
+
+[[paths]]
+reference = "templates/cc4403c5-03fc-41ba-969e-4ba929858c27.pot"
+l10n = "locales/{locale}/cc4403c5-03fc-41ba-969e-4ba929858c27.po"
+
+[[paths]]
+reference = "templates/cc4403c5-03fc-41ba-969e-4ba929858c27.pot"
+l10n = "locales/{locale}/cc4403c5-03fc-41ba-969e-4ba929858c27.po"
+
+[[paths]]
+reference = "templates/cc4403c5-03fc-41ba-969e-4ba929858c27.pot"
+l10n = "locales/{locale}/cc4403c5-03fc-41ba-969e-4ba929858c27.po"
+
+[[paths]]
+reference = "templates/f35a9edb-753a-45fd-ab5c-448ac00b7548.pot"
+l10n = "locales/{locale}/f35a9edb-753a-45fd-ab5c-448ac00b7548.po"
+
+[[paths]]
+reference = "templates/f35a9edb-753a-45fd-ab5c-448ac00b7548.pot"
+l10n = "locales/{locale}/f35a9edb-753a-45fd-ab5c-448ac00b7548.po"
+
+[[paths]]
+reference = "templates/f35a9edb-753a-45fd-ab5c-448ac00b7548.pot"
+l10n = "locales/{locale}/f35a9edb-753a-45fd-ab5c-448ac00b7548.po"
+
+[[paths]]
+reference = "templates/4afd8eec-8a70-470c-a66e-0b285ded500e.pot"
+l10n = "locales/{locale}/4afd8eec-8a70-470c-a66e-0b285ded500e.po"
+
+[[paths]]
+reference = "templates/4afd8eec-8a70-470c-a66e-0b285ded500e.pot"
+l10n = "locales/{locale}/4afd8eec-8a70-470c-a66e-0b285ded500e.po"
+
+[[paths]]
+reference = "templates/4afd8eec-8a70-470c-a66e-0b285ded500e.pot"
+l10n = "locales/{locale}/4afd8eec-8a70-470c-a66e-0b285ded500e.po"
+
+[[paths]]
+reference = "templates/cce171d3-a28e-4a3e-838f-b1f136073b91.pot"
+l10n = "locales/{locale}/cce171d3-a28e-4a3e-838f-b1f136073b91.po"
+
+[[paths]]
+reference = "templates/cce171d3-a28e-4a3e-838f-b1f136073b91.pot"
+l10n = "locales/{locale}/cce171d3-a28e-4a3e-838f-b1f136073b91.po"
+
+[[paths]]
+reference = "templates/cce171d3-a28e-4a3e-838f-b1f136073b91.pot"
+l10n = "locales/{locale}/cce171d3-a28e-4a3e-838f-b1f136073b91.po"
+
+[[paths]]
+reference = "templates/ad728199-4f90-407c-b658-094730c77473.pot"
+l10n = "locales/{locale}/ad728199-4f90-407c-b658-094730c77473.po"
+
+[[paths]]
+reference = "templates/ad728199-4f90-407c-b658-094730c77473.pot"
+l10n = "locales/{locale}/ad728199-4f90-407c-b658-094730c77473.po"
+
+[[paths]]
+reference = "templates/ad728199-4f90-407c-b658-094730c77473.pot"
+l10n = "locales/{locale}/ad728199-4f90-407c-b658-094730c77473.po"
+
+[[paths]]
+reference = "templates/ed8da340-5572-4a39-bbf4-9c76fc986449.pot"
+l10n = "locales/{locale}/ed8da340-5572-4a39-bbf4-9c76fc986449.po"
+
+[[paths]]
+reference = "templates/ed8da340-5572-4a39-bbf4-9c76fc986449.pot"
+l10n = "locales/{locale}/ed8da340-5572-4a39-bbf4-9c76fc986449.po"
+
+[[paths]]
+reference = "templates/ed8da340-5572-4a39-bbf4-9c76fc986449.pot"
+l10n = "locales/{locale}/ed8da340-5572-4a39-bbf4-9c76fc986449.po"
+
+[[paths]]
+reference = "templates/9f9bfd0e-3e2b-46aa-96a2-eab2a62f1398.pot"
+l10n = "locales/{locale}/9f9bfd0e-3e2b-46aa-96a2-eab2a62f1398.po"
+
+[[paths]]
+reference = "templates/9f9bfd0e-3e2b-46aa-96a2-eab2a62f1398.pot"
+l10n = "locales/{locale}/9f9bfd0e-3e2b-46aa-96a2-eab2a62f1398.po"
+
+[[paths]]
+reference = "templates/9f9bfd0e-3e2b-46aa-96a2-eab2a62f1398.pot"
+l10n = "locales/{locale}/9f9bfd0e-3e2b-46aa-96a2-eab2a62f1398.po"
+
+[[paths]]
+reference = "templates/3118d645-a0e9-4afa-9950-fbba9ec527f0.pot"
+l10n = "locales/{locale}/3118d645-a0e9-4afa-9950-fbba9ec527f0.po"
+
+[[paths]]
+reference = "templates/3118d645-a0e9-4afa-9950-fbba9ec527f0.pot"
+l10n = "locales/{locale}/3118d645-a0e9-4afa-9950-fbba9ec527f0.po"
+
+[[paths]]
+reference = "templates/3118d645-a0e9-4afa-9950-fbba9ec527f0.pot"
+l10n = "locales/{locale}/3118d645-a0e9-4afa-9950-fbba9ec527f0.po"
+
+[[paths]]
+reference = "templates/d73f4ffc-6f30-48db-b8b1-7a8e89b249ba.pot"
+l10n = "locales/{locale}/d73f4ffc-6f30-48db-b8b1-7a8e89b249ba.po"
+
+[[paths]]
+reference = "templates/d73f4ffc-6f30-48db-b8b1-7a8e89b249ba.pot"
+l10n = "locales/{locale}/d73f4ffc-6f30-48db-b8b1-7a8e89b249ba.po"
+
+[[paths]]
+reference = "templates/d73f4ffc-6f30-48db-b8b1-7a8e89b249ba.pot"
+l10n = "locales/{locale}/d73f4ffc-6f30-48db-b8b1-7a8e89b249ba.po"
+
+[[paths]]
+reference = "templates/504dd1de-3acd-442f-ba13-68e1f7546036.pot"
+l10n = "locales/{locale}/504dd1de-3acd-442f-ba13-68e1f7546036.po"
+
+[[paths]]
+reference = "templates/504dd1de-3acd-442f-ba13-68e1f7546036.pot"
+l10n = "locales/{locale}/504dd1de-3acd-442f-ba13-68e1f7546036.po"
+
+[[paths]]
+reference = "templates/504dd1de-3acd-442f-ba13-68e1f7546036.pot"
+l10n = "locales/{locale}/504dd1de-3acd-442f-ba13-68e1f7546036.po"
+
+[[paths]]
+reference = "templates/4687cbea-5d19-41c8-8a46-27a090716de6.pot"
+l10n = "locales/{locale}/4687cbea-5d19-41c8-8a46-27a090716de6.po"
+
+[[paths]]
+reference = "templates/4687cbea-5d19-41c8-8a46-27a090716de6.pot"
+l10n = "locales/{locale}/4687cbea-5d19-41c8-8a46-27a090716de6.po"
+
+[[paths]]
+reference = "templates/4687cbea-5d19-41c8-8a46-27a090716de6.pot"
+l10n = "locales/{locale}/4687cbea-5d19-41c8-8a46-27a090716de6.po"
+
+[[paths]]
+reference = "templates/41939e85-ca76-4654-a327-7da2e85fc4e7.pot"
+l10n = "locales/{locale}/41939e85-ca76-4654-a327-7da2e85fc4e7.po"
+
+[[paths]]
+reference = "templates/41939e85-ca76-4654-a327-7da2e85fc4e7.pot"
+l10n = "locales/{locale}/41939e85-ca76-4654-a327-7da2e85fc4e7.po"
+
+[[paths]]
+reference = "templates/41939e85-ca76-4654-a327-7da2e85fc4e7.pot"
+l10n = "locales/{locale}/41939e85-ca76-4654-a327-7da2e85fc4e7.po"
+
+[[paths]]
+reference = "templates/1860c50f-f773-48b7-b1ed-bbd18c7a1396.pot"
+l10n = "locales/{locale}/1860c50f-f773-48b7-b1ed-bbd18c7a1396.po"
+
+[[paths]]
+reference = "templates/1860c50f-f773-48b7-b1ed-bbd18c7a1396.pot"
+l10n = "locales/{locale}/1860c50f-f773-48b7-b1ed-bbd18c7a1396.po"
+
+[[paths]]
+reference = "templates/1860c50f-f773-48b7-b1ed-bbd18c7a1396.pot"
+l10n = "locales/{locale}/1860c50f-f773-48b7-b1ed-bbd18c7a1396.po"
+
+[[paths]]
+reference = "templates/d8b15d91-b60f-42a8-b25c-1ba039869c09.pot"
+l10n = "locales/{locale}/d8b15d91-b60f-42a8-b25c-1ba039869c09.po"
+
+[[paths]]
+reference = "templates/d8b15d91-b60f-42a8-b25c-1ba039869c09.pot"
+l10n = "locales/{locale}/d8b15d91-b60f-42a8-b25c-1ba039869c09.po"
+
+[[paths]]
+reference = "templates/d8b15d91-b60f-42a8-b25c-1ba039869c09.pot"
+l10n = "locales/{locale}/d8b15d91-b60f-42a8-b25c-1ba039869c09.po"
+
+[[paths]]
+reference = "templates/e2b9cc2d-63dc-444d-922f-cb3cff029a88.pot"
+l10n = "locales/{locale}/e2b9cc2d-63dc-444d-922f-cb3cff029a88.po"
+
+[[paths]]
+reference = "templates/e2b9cc2d-63dc-444d-922f-cb3cff029a88.pot"
+l10n = "locales/{locale}/e2b9cc2d-63dc-444d-922f-cb3cff029a88.po"
+
+[[paths]]
+reference = "templates/e2b9cc2d-63dc-444d-922f-cb3cff029a88.pot"
+l10n = "locales/{locale}/e2b9cc2d-63dc-444d-922f-cb3cff029a88.po"
+
+[[paths]]
+reference = "templates/87dd9247-977f-4229-bc5d-1ae9ea515acb.pot"
+l10n = "locales/{locale}/87dd9247-977f-4229-bc5d-1ae9ea515acb.po"
+
+[[paths]]
+reference = "templates/87dd9247-977f-4229-bc5d-1ae9ea515acb.pot"
+l10n = "locales/{locale}/87dd9247-977f-4229-bc5d-1ae9ea515acb.po"
+
+[[paths]]
+reference = "templates/87dd9247-977f-4229-bc5d-1ae9ea515acb.pot"
+l10n = "locales/{locale}/87dd9247-977f-4229-bc5d-1ae9ea515acb.po"
+
+[[paths]]
+reference = "templates/80a1eaa1-abc9-4301-a36f-e8d776d4824c.pot"
+l10n = "locales/{locale}/80a1eaa1-abc9-4301-a36f-e8d776d4824c.po"
+
+[[paths]]
+reference = "templates/80a1eaa1-abc9-4301-a36f-e8d776d4824c.pot"
+l10n = "locales/{locale}/80a1eaa1-abc9-4301-a36f-e8d776d4824c.po"
+
+[[paths]]
+reference = "templates/80a1eaa1-abc9-4301-a36f-e8d776d4824c.pot"
+l10n = "locales/{locale}/80a1eaa1-abc9-4301-a36f-e8d776d4824c.po"
+
+[[paths]]
+reference = "templates/33b1f18a-7408-4b15-a7f7-add8dd8ff8ae.pot"
+l10n = "locales/{locale}/33b1f18a-7408-4b15-a7f7-add8dd8ff8ae.po"
+
+[[paths]]
+reference = "templates/33b1f18a-7408-4b15-a7f7-add8dd8ff8ae.pot"
+l10n = "locales/{locale}/33b1f18a-7408-4b15-a7f7-add8dd8ff8ae.po"
+
+[[paths]]
+reference = "templates/33b1f18a-7408-4b15-a7f7-add8dd8ff8ae.pot"
+l10n = "locales/{locale}/33b1f18a-7408-4b15-a7f7-add8dd8ff8ae.po"
+
+[[paths]]
+reference = "templates/b835e9a7-eb48-4e17-aaa9-7143102f27fb.pot"
+l10n = "locales/{locale}/b835e9a7-eb48-4e17-aaa9-7143102f27fb.po"
+
+[[paths]]
+reference = "templates/b835e9a7-eb48-4e17-aaa9-7143102f27fb.pot"
+l10n = "locales/{locale}/b835e9a7-eb48-4e17-aaa9-7143102f27fb.po"
+
+[[paths]]
+reference = "templates/b835e9a7-eb48-4e17-aaa9-7143102f27fb.pot"
+l10n = "locales/{locale}/b835e9a7-eb48-4e17-aaa9-7143102f27fb.po"
+
+[[paths]]
+reference = "templates/11312c7e-3f48-4826-b7a5-331bc724cf94.pot"
+l10n = "locales/{locale}/11312c7e-3f48-4826-b7a5-331bc724cf94.po"
+
+[[paths]]
+reference = "templates/11312c7e-3f48-4826-b7a5-331bc724cf94.pot"
+l10n = "locales/{locale}/11312c7e-3f48-4826-b7a5-331bc724cf94.po"
+
+[[paths]]
+reference = "templates/11312c7e-3f48-4826-b7a5-331bc724cf94.pot"
+l10n = "locales/{locale}/11312c7e-3f48-4826-b7a5-331bc724cf94.po"
+
+[[paths]]
+reference = "templates/14f55100-f479-4c23-ad7a-b99a211df1b3.pot"
+l10n = "locales/{locale}/14f55100-f479-4c23-ad7a-b99a211df1b3.po"
+
+[[paths]]
+reference = "templates/14f55100-f479-4c23-ad7a-b99a211df1b3.pot"
+l10n = "locales/{locale}/14f55100-f479-4c23-ad7a-b99a211df1b3.po"
+
+[[paths]]
+reference = "templates/14f55100-f479-4c23-ad7a-b99a211df1b3.pot"
+l10n = "locales/{locale}/14f55100-f479-4c23-ad7a-b99a211df1b3.po"
+
+[[paths]]
+reference = "templates/f5a3aa94-99d8-4ebf-b7e7-203ae3815da0.pot"
+l10n = "locales/{locale}/f5a3aa94-99d8-4ebf-b7e7-203ae3815da0.po"
+
+[[paths]]
+reference = "templates/f5a3aa94-99d8-4ebf-b7e7-203ae3815da0.pot"
+l10n = "locales/{locale}/f5a3aa94-99d8-4ebf-b7e7-203ae3815da0.po"
+
+[[paths]]
+reference = "templates/f5a3aa94-99d8-4ebf-b7e7-203ae3815da0.pot"
+l10n = "locales/{locale}/f5a3aa94-99d8-4ebf-b7e7-203ae3815da0.po"
+
+[[paths]]
+reference = "templates/e2fc9693-71ee-4d2a-bcc1-0fdad64571cc.pot"
+l10n = "locales/{locale}/e2fc9693-71ee-4d2a-bcc1-0fdad64571cc.po"
+
+[[paths]]
+reference = "templates/e2fc9693-71ee-4d2a-bcc1-0fdad64571cc.pot"
+l10n = "locales/{locale}/e2fc9693-71ee-4d2a-bcc1-0fdad64571cc.po"
+
+[[paths]]
+reference = "templates/e2fc9693-71ee-4d2a-bcc1-0fdad64571cc.pot"
+l10n = "locales/{locale}/e2fc9693-71ee-4d2a-bcc1-0fdad64571cc.po"
+
+[[paths]]
+reference = "templates/f68bf0c8-0490-4d96-9354-321f3ad02a02.pot"
+l10n = "locales/{locale}/f68bf0c8-0490-4d96-9354-321f3ad02a02.po"
+
+[[paths]]
+reference = "templates/f68bf0c8-0490-4d96-9354-321f3ad02a02.pot"
+l10n = "locales/{locale}/f68bf0c8-0490-4d96-9354-321f3ad02a02.po"
+
+[[paths]]
+reference = "templates/f68bf0c8-0490-4d96-9354-321f3ad02a02.pot"
+l10n = "locales/{locale}/f68bf0c8-0490-4d96-9354-321f3ad02a02.po"
+
+[[paths]]
+reference = "templates/6c3829c7-b4d6-4dff-8dd0-785d180afc5f.pot"
+l10n = "locales/{locale}/6c3829c7-b4d6-4dff-8dd0-785d180afc5f.po"
+
+[[paths]]
+reference = "templates/6c3829c7-b4d6-4dff-8dd0-785d180afc5f.pot"
+l10n = "locales/{locale}/6c3829c7-b4d6-4dff-8dd0-785d180afc5f.po"
+
+[[paths]]
+reference = "templates/6c3829c7-b4d6-4dff-8dd0-785d180afc5f.pot"
+l10n = "locales/{locale}/6c3829c7-b4d6-4dff-8dd0-785d180afc5f.po"
+
+[[paths]]
+reference = "templates/0cffd1ed-8273-41db-bc5d-0c818383f360.pot"
+l10n = "locales/{locale}/0cffd1ed-8273-41db-bc5d-0c818383f360.po"
+
+[[paths]]
+reference = "templates/0cffd1ed-8273-41db-bc5d-0c818383f360.pot"
+l10n = "locales/{locale}/0cffd1ed-8273-41db-bc5d-0c818383f360.po"
+
+[[paths]]
+reference = "templates/0cffd1ed-8273-41db-bc5d-0c818383f360.pot"
+l10n = "locales/{locale}/0cffd1ed-8273-41db-bc5d-0c818383f360.po"
+
+[[paths]]
+reference = "templates/21f9cbef-a3c2-4800-b39d-dee45a39272c.pot"
+l10n = "locales/{locale}/21f9cbef-a3c2-4800-b39d-dee45a39272c.po"
+
+[[paths]]
+reference = "templates/21f9cbef-a3c2-4800-b39d-dee45a39272c.pot"
+l10n = "locales/{locale}/21f9cbef-a3c2-4800-b39d-dee45a39272c.po"
+
+[[paths]]
+reference = "templates/21f9cbef-a3c2-4800-b39d-dee45a39272c.pot"
+l10n = "locales/{locale}/21f9cbef-a3c2-4800-b39d-dee45a39272c.po"
+
+[[paths]]
+reference = "templates/1a3f3219-bba3-47a3-9159-554438ca10d7.pot"
+l10n = "locales/{locale}/1a3f3219-bba3-47a3-9159-554438ca10d7.po"
+
+[[paths]]
+reference = "templates/1a3f3219-bba3-47a3-9159-554438ca10d7.pot"
+l10n = "locales/{locale}/1a3f3219-bba3-47a3-9159-554438ca10d7.po"
+
+[[paths]]
+reference = "templates/1a3f3219-bba3-47a3-9159-554438ca10d7.pot"
+l10n = "locales/{locale}/1a3f3219-bba3-47a3-9159-554438ca10d7.po"
+
+[[paths]]
+reference = "templates/1c032093-44f4-4d32-b801-47259a8ea896.pot"
+l10n = "locales/{locale}/1c032093-44f4-4d32-b801-47259a8ea896.po"
+
+[[paths]]
+reference = "templates/1c032093-44f4-4d32-b801-47259a8ea896.pot"
+l10n = "locales/{locale}/1c032093-44f4-4d32-b801-47259a8ea896.po"
+
+[[paths]]
+reference = "templates/1c032093-44f4-4d32-b801-47259a8ea896.pot"
+l10n = "locales/{locale}/1c032093-44f4-4d32-b801-47259a8ea896.po"
+

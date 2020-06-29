@@ -1,0 +1,42 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-06-29 17:09:18.292149+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationRequestID: 928f0604-e6c2-4c86-b5ab-24201bcdcba4\n"
+
+msgctxt "title"
+msgid "Selfoss"
+msgstr ""
+
+msgctxt "introduction"
+msgid ""
+"Gummies dessert cake pastry jujubes cotton candy apple pie chocolate bar muffin. Bonbon soufflé icing brownie cheesecake candy canes. Sesame snaps chocolate pudding soufflé powder pastry pastry "
+"jelly beans. Chocolate cake caramels gingerbread bear claw gingerbread jelly-o."
+msgstr ""
+
+msgctxt "body.5009aad7-a151-4d38-bf96-5b8389239537"
+msgid ""
+"Jelly-o marzipan fruitcake. Candy marshmallow candy canes macaroon marshmallow marshmallow sesame snaps. Cookie croissant wafer jelly beans. Bonbon sesame snaps danish chocolate bar. Pudding "
+"marzipan tootsie roll lollipop sesame snaps soufflé fruitcake. Tootsie roll jujubes cookie chocolate topping cupcake. Pudding cake gummies chupa chups jelly beans gingerbread sesame snaps gummi "
+"bears gummies. Chocolate chupa chups jelly candy canes carrot cake croissant ice cream. Bonbon sugar plum jelly beans cake tiramisu. Carrot cake gummies carrot cake macaroon wafer cake cupcake."
+msgstr ""
+
+msgctxt "body.5009aad7-a151-4d38-bf96-5b8389239537"
+msgid ""
+"Jelly-o candy canes macaroon chocolate cake cheesecake cake lollipop cookie. Halvah candy topping sugar plum topping sesame snaps cotton candy topping. Sesame snaps brownie chocolate cake. Lemon "
+"drops sweet roll cookie dragée chocolate bar sugar plum jelly-o. Liquorice toffee jujubes chocolate cake cheesecake biscuit. Marshmallow chocolate bar oat cake wafer soufflé brownie fruitcake. Oat "
+"cake icing cheesecake liquorice caramels."
+msgstr ""
+
+msgctxt "body.7a2798e2-1c27-4c54-996d-0d01dfbf8c83.heading_text"
+msgid "An awesome heading"
+msgstr ""
+
+msgctxt "body.f9a6c9db-a22f-49dd-8760-0eb3a0e13be4"
+msgid ""
+"Brownie marzipan marshmallow tart pudding carrot cake. Cheesecake jelly beans gingerbread lollipop. Marshmallow tiramisu jelly beans apple pie gingerbread candy bonbon carrot cake. Pastry candy "
+"gummies danish pudding topping. Tart jelly-o chocolate wafer pastry brownie chocolate bar oat cake. Cookie sugar plum liquorice jelly beans. Sweet jujubes candy canes sweet chocolate chocolate "
+"cookie chocolate cookie. Cookie pudding toffee tart."
+msgstr ""

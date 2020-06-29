@@ -1,0 +1,15 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-06-29 17:09:17.525718+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationRequestID: 26e79f0e-16d8-410f-bece-12c075c2fa18\n"
+
+msgctxt "title"
+msgid "Bazin"
+msgstr ""
+
+msgctxt "introduction"
+msgid "When consumed, bazin may be &quot;crumpled and eaten with the fingers.&quot;"
+msgstr ""
