@@ -8,8 +8,8 @@ msgstr ""
 
 msgctxt "title"
 msgid "Bammy"
-msgstr ""
+msgstr "sdfasdfsd"
 
 msgctxt "introduction"
 msgid "Bammies, like wheat bread and tortillas, are served at any meal or consumed as a snack."
-msgstr ""
+msgstr "asfsdfsdfdsf"
