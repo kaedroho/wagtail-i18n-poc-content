@@ -4,7 +4,7 @@ msgstr ""
 "POT-Creation-Date: 2020-07-02 09:52:57.297947+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: e6a069e2-8eac-4eb9-a8df-e3512f21558d\n"
+"X-WagtailLocalize-TranslationID: 128a1e2a-37f4-48c0-a126-df825b5e460c\n"
 
 msgctxt "title"
 msgid "The Great Icelandic Baking Show"

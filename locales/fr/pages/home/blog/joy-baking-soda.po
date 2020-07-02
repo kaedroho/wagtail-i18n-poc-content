@@ -4,7 +4,7 @@ msgstr ""
 "POT-Creation-Date: 2020-07-02 09:52:57.339452+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: 6b713a7a-8bac-43ea-b7fa-0f657562352c\n"
+"X-WagtailLocalize-TranslationID: 9d64707e-1070-47fd-bfa1-534e3b3f337c\n"
 
 msgctxt "title"
 msgid "The Joy of (Baking) Soda"

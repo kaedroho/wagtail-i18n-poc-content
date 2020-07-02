@@ -4,7 +4,7 @@ msgstr ""
 "POT-Creation-Date: 2020-07-02 09:52:57.071908+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: 1840f09f-b530-4e05-9647-8da527e0a72f\n"
+"X-WagtailLocalize-TranslationID: eabc927f-ff15-4e05-bb97-2e40785e0d5b\n"
 
 msgctxt "title"
 msgid "Vik"

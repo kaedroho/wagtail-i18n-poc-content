@@ -4,7 +4,7 @@ msgstr ""
 "POT-Creation-Date: 2020-07-02 09:52:57.416388+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: 80387023-7ab9-4a1f-8fc9-1e98dc14d435\n"
+"X-WagtailLocalize-TranslationID: 600425cf-5ef9-440d-a090-7ce3101830ad\n"
 
 msgctxt "title"
 msgid "Desserts with Benefits"
