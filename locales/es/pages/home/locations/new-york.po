@@ -1,0 +1,42 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-07-02 09:52:57.021085+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 4e4ec011-72ce-4008-bb71-17e2bafa3e2f\n"
+
+msgctxt "title"
+msgid "Hof"
+msgstr ""
+
+msgctxt "introduction"
+msgid ""
+"Pie gingerbread cake caramels chocolate cake tiramisu wafer. Gummi bears chupa chups chocolate. Topping chupa chups bonbon cake pie caramels. Pie gingerbread cake caramels chocolate cake tiramisu "
+"wafer."
+msgstr ""
+
+msgctxt "body.9c998a7e-4705-4d3f-8b21-36ce5d38d615"
+msgid ""
+"Chocolate bar I love marzipan chupa chups soufflé chocolate bar. Biscuit caramels lollipop cookie. Macaroon I love tart pudding topping I love. Jujubes macaroon gummies pudding icing cake pastry. "
+"Candy canes candy chocolate cake I love chocolate carrot cake halvah. I love croissant I love donut. Chocolate sweet chocolate cake cotton candy soufflé caramels pie tiramisu I love. Lemon drops "
+"topping caramels. Pudding candy cotton candy gingerbread jelly beans jelly-o tiramisu cotton candy soufflé. Cake bear claw cupcake pastry gummi bears cake."
+msgstr ""
+
+msgctxt "body.19b0e1ab-3150-4d6a-8557-1d732955a7cd.heading_text"
+msgid "Never say no to more"
+msgstr ""
+
+msgctxt "body.b8f5bc50-dea5-4f0f-a933-975117d4da97"
+msgid ""
+"Muffin wafer chocolate cake bonbon icing chupa chups cupcake. Pudding dragée soufflé icing caramels chupa chups sweet muffin. Pastry fruitcake pastry dessert chupa chups. Sugar plum wafer chupa "
+"chups tootsie roll candy chocolate bar soufflé sesame snaps jelly-o. Dessert macaroon jelly fruitcake jujubes marshmallow cake. Gummies soufflé cotton candy candy pastry powder topping muffin cotton"
+" candy. I love jelly beans I love I love chocolate cake fruitcake oat cake dragée dessert."
+msgstr ""
+
+msgctxt "body.b8f5bc50-dea5-4f0f-a933-975117d4da97"
+msgid ""
+"Chupa chups marzipan pie caramels cotton candy jelly-o. Pie sweet cake soufflé apple pie cake. Chocolate cake chupa chups bear claw cotton candy. I love marshmallow chocolate sweet I love. Dragée "
+"donut cotton candy jujubes ice cream. Marshmallow gummies gingerbread marzipan. Caramels tootsie roll cake. Macaroon chocolate liquorice ice cream. Candy biscuit chupa chups chocolate cake cake "
+"danish. Sesame snaps I love macaroon cupcake bear claw chocolate cake I love candy canes."
+msgstr ""

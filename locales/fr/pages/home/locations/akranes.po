@@ -1,0 +1,31 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-07-02 09:52:57.176099+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 05cdbe25-c28c-436d-b6ba-ccdb31974051\n"
+
+msgctxt "title"
+msgid "Akranes"
+msgstr ""
+
+msgctxt "introduction"
+msgid ""
+"Ice cream pie tiramisu carrot cake pie macaroon brownie wafer. Cupcake cookie cotton candy jelly-o macaroon tootsie roll ice cream. Biscuit caramels apple pie. Marshmallow lollipop gingerbread "
+"chocolate powder ice cream tootsie roll."
+msgstr ""
+
+msgctxt "body.6a75442c-16f3-4999-8d94-8e4b8666dfe1"
+msgid ""
+"Gingerbread jujubes pudding lollipop cake sweet pudding biscuit. Dessert sweet roll gummies. Pudding jujubes powder macaroon. Lollipop sweet roll jelly-o tiramisu chupa chups marzipan tart cookie. "
+"Macaroon tootsie roll lemon drops. Fruitcake macaroon liquorice bonbon chocolate bar caramels donut pastry. Wafer candy canes jujubes powder gummi bears candy canes biscuit pastry oat cake. Halvah "
+"pastry lemon drops gummi bears lemon drops powder. Tart lollipop bonbon apple pie sugar plum gummies cake."
+msgstr ""
+
+msgctxt "body.6a75442c-16f3-4999-8d94-8e4b8666dfe1"
+msgid ""
+"Soufflé sweet roll caramels toffee. Ice cream cotton candy jelly-o sweet roll sugar plum dessert chupa chups. Dragée ice cream chocolate cake candy canes sugar plum pudding cheesecake. Tart jelly "
+"beans liquorice ice cream gummi bears lollipop tiramisu. Ice cream pie sweet roll liquorice. Tiramisu jujubes lollipop chocolate tiramisu. Cotton candy jelly cake lemon drops lollipop. Tootsie roll "
+"chocolate bar jelly-o cookie wafer cookie toffee pastry. Sugar plum chocolate bar jelly beans gummies jujubes sweet chocolate cake."
+msgstr ""

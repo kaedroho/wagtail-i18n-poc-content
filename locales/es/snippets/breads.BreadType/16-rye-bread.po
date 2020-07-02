@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-07-02 09:52:58.125998+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 7fb67fcb-f812-4293-8f0f-2baa305c2580\n"
+
+msgctxt "title"
+msgid "Rye bread"
+msgstr ""

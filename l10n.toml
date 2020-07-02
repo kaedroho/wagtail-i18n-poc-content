@@ -1,393 +1,393 @@
 locales = [ "es", "fr", "ja",]
 [[paths]]
-reference = "templates/ac7dc46a-a349-48dc-bb0a-6420a3261d73.pot"
-l10n = "locales/{locale}/ac7dc46a-a349-48dc-bb0a-6420a3261d73.po"
+reference = "templates/pages/home.pot"
+l10n = "locales/{locale}/pages/home.po"
 
 [[paths]]
-reference = "templates/ac7dc46a-a349-48dc-bb0a-6420a3261d73.pot"
-l10n = "locales/{locale}/ac7dc46a-a349-48dc-bb0a-6420a3261d73.po"
+reference = "templates/pages/home.pot"
+l10n = "locales/{locale}/pages/home.po"
 
 [[paths]]
-reference = "templates/ae50e529-34ce-4caa-aa20-7a81ed077c9c.pot"
-l10n = "locales/{locale}/ae50e529-34ce-4caa-aa20-7a81ed077c9c.po"
+reference = "templates/pages/home/breads.pot"
+l10n = "locales/{locale}/pages/home/breads.po"
 
 [[paths]]
-reference = "templates/ae50e529-34ce-4caa-aa20-7a81ed077c9c.pot"
-l10n = "locales/{locale}/ae50e529-34ce-4caa-aa20-7a81ed077c9c.po"
+reference = "templates/pages/home/breads.pot"
+l10n = "locales/{locale}/pages/home/breads.po"
 
 [[paths]]
-reference = "templates/b19315d8-934b-431b-80b9-2b4e272cfb6d.pot"
-l10n = "locales/{locale}/b19315d8-934b-431b-80b9-2b4e272cfb6d.po"
+reference = "templates/pages/home/breads/anadama-bread.pot"
+l10n = "locales/{locale}/pages/home/breads/anadama-bread.po"
 
 [[paths]]
-reference = "templates/b19315d8-934b-431b-80b9-2b4e272cfb6d.pot"
-l10n = "locales/{locale}/b19315d8-934b-431b-80b9-2b4e272cfb6d.po"
+reference = "templates/pages/home/breads/anadama-bread.pot"
+l10n = "locales/{locale}/pages/home/breads/anadama-bread.po"
 
 [[paths]]
-reference = "templates/2c52f661-e1a6-4d0c-ade9-d91f6186692f.pot"
-l10n = "locales/{locale}/2c52f661-e1a6-4d0c-ade9-d91f6186692f.po"
+reference = "templates/pages/home/breads/anpan.pot"
+l10n = "locales/{locale}/pages/home/breads/anpan.po"
 
 [[paths]]
-reference = "templates/2c52f661-e1a6-4d0c-ade9-d91f6186692f.pot"
-l10n = "locales/{locale}/2c52f661-e1a6-4d0c-ade9-d91f6186692f.po"
+reference = "templates/pages/home/breads/anpan.pot"
+l10n = "locales/{locale}/pages/home/breads/anpan.po"
 
 [[paths]]
-reference = "templates/6ad4bf00-edbd-40c3-aefa-5a57cfb44b07.pot"
-l10n = "locales/{locale}/6ad4bf00-edbd-40c3-aefa-5a57cfb44b07.po"
+reference = "templates/pages/home/breads/appam-hoppers.pot"
+l10n = "locales/{locale}/pages/home/breads/appam-hoppers.po"
 
 [[paths]]
-reference = "templates/6ad4bf00-edbd-40c3-aefa-5a57cfb44b07.pot"
-l10n = "locales/{locale}/6ad4bf00-edbd-40c3-aefa-5a57cfb44b07.po"
+reference = "templates/pages/home/breads/appam-hoppers.pot"
+l10n = "locales/{locale}/pages/home/breads/appam-hoppers.po"
 
 [[paths]]
-reference = "templates/1ce911a2-1896-40a1-8f04-efb45c0d8bb8.pot"
-l10n = "locales/{locale}/1ce911a2-1896-40a1-8f04-efb45c0d8bb8.po"
+reference = "templates/pages/home/breads/arepa.pot"
+l10n = "locales/{locale}/pages/home/breads/arepa.po"
 
 [[paths]]
-reference = "templates/1ce911a2-1896-40a1-8f04-efb45c0d8bb8.pot"
-l10n = "locales/{locale}/1ce911a2-1896-40a1-8f04-efb45c0d8bb8.po"
+reference = "templates/pages/home/breads/arepa.pot"
+l10n = "locales/{locale}/pages/home/breads/arepa.po"
 
 [[paths]]
-reference = "templates/5e780068-b9eb-49f6-9fed-a39f883cf96a.pot"
-l10n = "locales/{locale}/5e780068-b9eb-49f6-9fed-a39f883cf96a.po"
+reference = "templates/pages/home/breads/bagel.pot"
+l10n = "locales/{locale}/pages/home/breads/bagel.po"
 
 [[paths]]
-reference = "templates/5e780068-b9eb-49f6-9fed-a39f883cf96a.pot"
-l10n = "locales/{locale}/5e780068-b9eb-49f6-9fed-a39f883cf96a.po"
+reference = "templates/pages/home/breads/bagel.pot"
+l10n = "locales/{locale}/pages/home/breads/bagel.po"
 
 [[paths]]
-reference = "templates/af52a7ab-57ee-418d-80a0-67e8f6c0207e.pot"
-l10n = "locales/{locale}/af52a7ab-57ee-418d-80a0-67e8f6c0207e.po"
+reference = "templates/pages/home/breads/baguette-french-stick-french-bread.pot"
+l10n = "locales/{locale}/pages/home/breads/baguette-french-stick-french-bread.po"
 
 [[paths]]
-reference = "templates/af52a7ab-57ee-418d-80a0-67e8f6c0207e.pot"
-l10n = "locales/{locale}/af52a7ab-57ee-418d-80a0-67e8f6c0207e.po"
+reference = "templates/pages/home/breads/baguette-french-stick-french-bread.pot"
+l10n = "locales/{locale}/pages/home/breads/baguette-french-stick-french-bread.po"
 
 [[paths]]
-reference = "templates/74607023-8199-4125-88e5-82e6a2e37c10.pot"
-l10n = "locales/{locale}/74607023-8199-4125-88e5-82e6a2e37c10.po"
+reference = "templates/pages/home/breads/bammy.pot"
+l10n = "locales/{locale}/pages/home/breads/bammy.po"
 
 [[paths]]
-reference = "templates/74607023-8199-4125-88e5-82e6a2e37c10.pot"
-l10n = "locales/{locale}/74607023-8199-4125-88e5-82e6a2e37c10.po"
+reference = "templates/pages/home/breads/bammy.pot"
+l10n = "locales/{locale}/pages/home/breads/bammy.po"
 
 [[paths]]
-reference = "templates/decc3c53-ebc0-4c7c-a724-2f2220e90e48.pot"
-l10n = "locales/{locale}/decc3c53-ebc0-4c7c-a724-2f2220e90e48.po"
+reference = "templates/pages/home/breads/bazin.pot"
+l10n = "locales/{locale}/pages/home/breads/bazin.po"
 
 [[paths]]
-reference = "templates/decc3c53-ebc0-4c7c-a724-2f2220e90e48.pot"
-l10n = "locales/{locale}/decc3c53-ebc0-4c7c-a724-2f2220e90e48.po"
+reference = "templates/pages/home/breads/bazin.pot"
+l10n = "locales/{locale}/pages/home/breads/bazin.po"
 
 [[paths]]
-reference = "templates/7f8148e6-0dbc-4452-943d-dbdf5a3a5cb5.pot"
-l10n = "locales/{locale}/7f8148e6-0dbc-4452-943d-dbdf5a3a5cb5.po"
+reference = "templates/pages/home/breads/bhakri.pot"
+l10n = "locales/{locale}/pages/home/breads/bhakri.po"
 
 [[paths]]
-reference = "templates/7f8148e6-0dbc-4452-943d-dbdf5a3a5cb5.pot"
-l10n = "locales/{locale}/7f8148e6-0dbc-4452-943d-dbdf5a3a5cb5.po"
+reference = "templates/pages/home/breads/bhakri.pot"
+l10n = "locales/{locale}/pages/home/breads/bhakri.po"
 
 [[paths]]
-reference = "templates/0d880f66-1244-4f4a-920a-3f012edd2868.pot"
-l10n = "locales/{locale}/0d880f66-1244-4f4a-920a-3f012edd2868.po"
+reference = "templates/pages/home/breads/black-bread.pot"
+l10n = "locales/{locale}/pages/home/breads/black-bread.po"
 
 [[paths]]
-reference = "templates/0d880f66-1244-4f4a-920a-3f012edd2868.pot"
-l10n = "locales/{locale}/0d880f66-1244-4f4a-920a-3f012edd2868.po"
+reference = "templates/pages/home/breads/black-bread.pot"
+l10n = "locales/{locale}/pages/home/breads/black-bread.po"
 
 [[paths]]
-reference = "templates/f4bc4fd1-a3ac-43bf-a3f4-db1595a751f1.pot"
-l10n = "locales/{locale}/f4bc4fd1-a3ac-43bf-a3f4-db1595a751f1.po"
+reference = "templates/pages/home/breads/bolani.pot"
+l10n = "locales/{locale}/pages/home/breads/bolani.po"
 
 [[paths]]
-reference = "templates/f4bc4fd1-a3ac-43bf-a3f4-db1595a751f1.pot"
-l10n = "locales/{locale}/f4bc4fd1-a3ac-43bf-a3f4-db1595a751f1.po"
+reference = "templates/pages/home/breads/bolani.pot"
+l10n = "locales/{locale}/pages/home/breads/bolani.po"
 
 [[paths]]
-reference = "templates/fd6a300a-b6b6-43b2-8102-d7ab477036de.pot"
-l10n = "locales/{locale}/fd6a300a-b6b6-43b2-8102-d7ab477036de.po"
+reference = "templates/pages/home/locations.pot"
+l10n = "locales/{locale}/pages/home/locations.po"
 
 [[paths]]
-reference = "templates/fd6a300a-b6b6-43b2-8102-d7ab477036de.pot"
-l10n = "locales/{locale}/fd6a300a-b6b6-43b2-8102-d7ab477036de.po"
+reference = "templates/pages/home/locations.pot"
+l10n = "locales/{locale}/pages/home/locations.po"
 
 [[paths]]
-reference = "templates/1beadf29-9cd0-4ff4-868e-84b0b570dacd.pot"
-l10n = "locales/{locale}/1beadf29-9cd0-4ff4-868e-84b0b570dacd.po"
+reference = "templates/pages/home/locations/new-york.pot"
+l10n = "locales/{locale}/pages/home/locations/new-york.po"
 
 [[paths]]
-reference = "templates/1beadf29-9cd0-4ff4-868e-84b0b570dacd.pot"
-l10n = "locales/{locale}/1beadf29-9cd0-4ff4-868e-84b0b570dacd.po"
+reference = "templates/pages/home/locations/new-york.pot"
+l10n = "locales/{locale}/pages/home/locations/new-york.po"
 
 [[paths]]
-reference = "templates/71ebcdc1-d4e1-40f9-883a-7d2d7c25ba2e.pot"
-l10n = "locales/{locale}/71ebcdc1-d4e1-40f9-883a-7d2d7c25ba2e.po"
+reference = "templates/pages/home/locations/reykjavik.pot"
+l10n = "locales/{locale}/pages/home/locations/reykjavik.po"
 
 [[paths]]
-reference = "templates/71ebcdc1-d4e1-40f9-883a-7d2d7c25ba2e.pot"
-l10n = "locales/{locale}/71ebcdc1-d4e1-40f9-883a-7d2d7c25ba2e.po"
+reference = "templates/pages/home/locations/reykjavik.pot"
+l10n = "locales/{locale}/pages/home/locations/reykjavik.po"
 
 [[paths]]
-reference = "templates/5adf4e85-872b-4277-ab86-1985cd2f63ac.pot"
-l10n = "locales/{locale}/5adf4e85-872b-4277-ab86-1985cd2f63ac.po"
+reference = "templates/pages/home/locations/london.pot"
+l10n = "locales/{locale}/pages/home/locations/london.po"
 
 [[paths]]
-reference = "templates/5adf4e85-872b-4277-ab86-1985cd2f63ac.pot"
-l10n = "locales/{locale}/5adf4e85-872b-4277-ab86-1985cd2f63ac.po"
+reference = "templates/pages/home/locations/london.pot"
+l10n = "locales/{locale}/pages/home/locations/london.po"
 
 [[paths]]
-reference = "templates/fd5c0e64-5f08-4ec1-80ce-fab1e4f8ed9d.pot"
-l10n = "locales/{locale}/fd5c0e64-5f08-4ec1-80ce-fab1e4f8ed9d.po"
+reference = "templates/pages/home/locations/wellington.pot"
+l10n = "locales/{locale}/pages/home/locations/wellington.po"
 
 [[paths]]
-reference = "templates/fd5c0e64-5f08-4ec1-80ce-fab1e4f8ed9d.pot"
-l10n = "locales/{locale}/fd5c0e64-5f08-4ec1-80ce-fab1e4f8ed9d.po"
+reference = "templates/pages/home/locations/wellington.pot"
+l10n = "locales/{locale}/pages/home/locations/wellington.po"
 
 [[paths]]
-reference = "templates/7fc0088e-857b-468b-8830-6f56646c26d6.pot"
-l10n = "locales/{locale}/7fc0088e-857b-468b-8830-6f56646c26d6.po"
+reference = "templates/pages/home/locations/hofn.pot"
+l10n = "locales/{locale}/pages/home/locations/hofn.po"
 
 [[paths]]
-reference = "templates/7fc0088e-857b-468b-8830-6f56646c26d6.pot"
-l10n = "locales/{locale}/7fc0088e-857b-468b-8830-6f56646c26d6.po"
+reference = "templates/pages/home/locations/hofn.pot"
+l10n = "locales/{locale}/pages/home/locations/hofn.po"
 
 [[paths]]
-reference = "templates/0609693d-9f11-433a-b693-0c109a30641e.pot"
-l10n = "locales/{locale}/0609693d-9f11-433a-b693-0c109a30641e.po"
+reference = "templates/pages/home/locations/akranes.pot"
+l10n = "locales/{locale}/pages/home/locations/akranes.po"
 
 [[paths]]
-reference = "templates/0609693d-9f11-433a-b693-0c109a30641e.pot"
-l10n = "locales/{locale}/0609693d-9f11-433a-b693-0c109a30641e.po"
+reference = "templates/pages/home/locations/akranes.pot"
+l10n = "locales/{locale}/pages/home/locations/akranes.po"
 
 [[paths]]
-reference = "templates/dc8ca800-d50f-40b3-9c3a-36398d202c25.pot"
-l10n = "locales/{locale}/dc8ca800-d50f-40b3-9c3a-36398d202c25.po"
+reference = "templates/pages/home/blog/wild-yeast.pot"
+l10n = "locales/{locale}/pages/home/blog/wild-yeast.po"
 
 [[paths]]
-reference = "templates/dc8ca800-d50f-40b3-9c3a-36398d202c25.pot"
-l10n = "locales/{locale}/dc8ca800-d50f-40b3-9c3a-36398d202c25.po"
+reference = "templates/pages/home/blog/wild-yeast.pot"
+l10n = "locales/{locale}/pages/home/blog/wild-yeast.po"
 
 [[paths]]
-reference = "templates/dcbaf275-cf11-4e16-9554-415b3ce0c946.pot"
-l10n = "locales/{locale}/dcbaf275-cf11-4e16-9554-415b3ce0c946.po"
+reference = "templates/pages/home/blog/bread-circuses.pot"
+l10n = "locales/{locale}/pages/home/blog/bread-circuses.po"
 
 [[paths]]
-reference = "templates/dcbaf275-cf11-4e16-9554-415b3ce0c946.pot"
-l10n = "locales/{locale}/dcbaf275-cf11-4e16-9554-415b3ce0c946.po"
+reference = "templates/pages/home/blog/bread-circuses.pot"
+l10n = "locales/{locale}/pages/home/blog/bread-circuses.po"
 
 [[paths]]
-reference = "templates/d929cb5e-0c5c-4c27-9a34-f6e742413fd1.pot"
-l10n = "locales/{locale}/d929cb5e-0c5c-4c27-9a34-f6e742413fd1.po"
+reference = "templates/pages/home/blog/icelandic-baking.pot"
+l10n = "locales/{locale}/pages/home/blog/icelandic-baking.po"
 
 [[paths]]
-reference = "templates/d929cb5e-0c5c-4c27-9a34-f6e742413fd1.pot"
-l10n = "locales/{locale}/d929cb5e-0c5c-4c27-9a34-f6e742413fd1.po"
+reference = "templates/pages/home/blog/icelandic-baking.pot"
+l10n = "locales/{locale}/pages/home/blog/icelandic-baking.po"
 
 [[paths]]
-reference = "templates/85a69604-0465-4b77-a0d8-44ff8d446481.pot"
-l10n = "locales/{locale}/85a69604-0465-4b77-a0d8-44ff8d446481.po"
+reference = "templates/pages/home/blog/joy-baking-soda.pot"
+l10n = "locales/{locale}/pages/home/blog/joy-baking-soda.po"
 
 [[paths]]
-reference = "templates/85a69604-0465-4b77-a0d8-44ff8d446481.pot"
-l10n = "locales/{locale}/85a69604-0465-4b77-a0d8-44ff8d446481.po"
+reference = "templates/pages/home/blog/joy-baking-soda.pot"
+l10n = "locales/{locale}/pages/home/blog/joy-baking-soda.po"
 
 [[paths]]
-reference = "templates/8496c840-af67-48ff-8062-fb46430337cd.pot"
-l10n = "locales/{locale}/8496c840-af67-48ff-8062-fb46430337cd.po"
+reference = "templates/pages/home/blog/sliced-bread.pot"
+l10n = "locales/{locale}/pages/home/blog/sliced-bread.po"
 
 [[paths]]
-reference = "templates/8496c840-af67-48ff-8062-fb46430337cd.pot"
-l10n = "locales/{locale}/8496c840-af67-48ff-8062-fb46430337cd.po"
+reference = "templates/pages/home/blog/sliced-bread.pot"
+l10n = "locales/{locale}/pages/home/blog/sliced-bread.po"
 
 [[paths]]
-reference = "templates/6cd68774-afe1-4032-8de9-da60a19e5043.pot"
-l10n = "locales/{locale}/6cd68774-afe1-4032-8de9-da60a19e5043.po"
+reference = "templates/pages/home/blog/desserts-benefits.pot"
+l10n = "locales/{locale}/pages/home/blog/desserts-benefits.po"
 
 [[paths]]
-reference = "templates/6cd68774-afe1-4032-8de9-da60a19e5043.pot"
-l10n = "locales/{locale}/6cd68774-afe1-4032-8de9-da60a19e5043.po"
+reference = "templates/pages/home/blog/desserts-benefits.pot"
+l10n = "locales/{locale}/pages/home/blog/desserts-benefits.po"
 
 [[paths]]
-reference = "templates/0b62668f-4eae-442e-bcd4-f724d56a7a95.pot"
-l10n = "locales/{locale}/0b62668f-4eae-442e-bcd4-f724d56a7a95.po"
+reference = "templates/pages/home/gallery.pot"
+l10n = "locales/{locale}/pages/home/gallery.po"
 
 [[paths]]
-reference = "templates/0b62668f-4eae-442e-bcd4-f724d56a7a95.pot"
-l10n = "locales/{locale}/0b62668f-4eae-442e-bcd4-f724d56a7a95.po"
+reference = "templates/pages/home/gallery.pot"
+l10n = "locales/{locale}/pages/home/gallery.po"
 
 [[paths]]
-reference = "templates/fc7d79ea-9145-4212-a477-bd38266a9ae4.pot"
-l10n = "locales/{locale}/fc7d79ea-9145-4212-a477-bd38266a9ae4.po"
+reference = "templates/pages/home/contact-us.pot"
+l10n = "locales/{locale}/pages/home/contact-us.po"
 
 [[paths]]
-reference = "templates/fc7d79ea-9145-4212-a477-bd38266a9ae4.pot"
-l10n = "locales/{locale}/fc7d79ea-9145-4212-a477-bd38266a9ae4.po"
+reference = "templates/pages/home/contact-us.pot"
+l10n = "locales/{locale}/pages/home/contact-us.po"
 
 [[paths]]
-reference = "templates/8bf8d447-7e6f-40d1-9708-c9e45c707f3e.pot"
-l10n = "locales/{locale}/8bf8d447-7e6f-40d1-9708-c9e45c707f3e.po"
+reference = "templates/pages/home/about.pot"
+l10n = "locales/{locale}/pages/home/about.po"
 
 [[paths]]
-reference = "templates/8bf8d447-7e6f-40d1-9708-c9e45c707f3e.pot"
-l10n = "locales/{locale}/8bf8d447-7e6f-40d1-9708-c9e45c707f3e.po"
+reference = "templates/pages/home/about.pot"
+l10n = "locales/{locale}/pages/home/about.po"
 
 [[paths]]
-reference = "templates/0598bf93-c23d-487a-b33c-1b9f5a174212.pot"
-l10n = "locales/{locale}/0598bf93-c23d-487a-b33c-1b9f5a174212.po"
+reference = "templates/pages/home/blog.pot"
+l10n = "locales/{locale}/pages/home/blog.po"
 
 [[paths]]
-reference = "templates/0598bf93-c23d-487a-b33c-1b9f5a174212.pot"
-l10n = "locales/{locale}/0598bf93-c23d-487a-b33c-1b9f5a174212.po"
+reference = "templates/pages/home/blog.pot"
+l10n = "locales/{locale}/pages/home/blog.po"
 
 [[paths]]
-reference = "templates/eabcb176-fd8d-4e6e-833d-4b5be5052ebc.pot"
-l10n = "locales/{locale}/eabcb176-fd8d-4e6e-833d-4b5be5052ebc.po"
+reference = "templates/snippets/breads.Country/3-united-states-new-england.pot"
+l10n = "locales/{locale}/snippets/breads.Country/3-united-states-new-england.po"
 
 [[paths]]
-reference = "templates/eabcb176-fd8d-4e6e-833d-4b5be5052ebc.pot"
-l10n = "locales/{locale}/eabcb176-fd8d-4e6e-833d-4b5be5052ebc.po"
+reference = "templates/snippets/breads.Country/3-united-states-new-england.pot"
+l10n = "locales/{locale}/snippets/breads.Country/3-united-states-new-england.po"
 
 [[paths]]
-reference = "templates/7b372e8c-eeb0-40be-b211-cc404d97cc2a.pot"
-l10n = "locales/{locale}/7b372e8c-eeb0-40be-b211-cc404d97cc2a.po"
+reference = "templates/snippets/breads.BreadType/4-yeast-bread.pot"
+l10n = "locales/{locale}/snippets/breads.BreadType/4-yeast-bread.po"
 
 [[paths]]
-reference = "templates/7b372e8c-eeb0-40be-b211-cc404d97cc2a.pot"
-l10n = "locales/{locale}/7b372e8c-eeb0-40be-b211-cc404d97cc2a.po"
+reference = "templates/snippets/breads.BreadType/4-yeast-bread.pot"
+l10n = "locales/{locale}/snippets/breads.BreadType/4-yeast-bread.po"
 
 [[paths]]
-reference = "templates/2314a821-6c79-4cc6-9ed2-4fd3a7938b47.pot"
-l10n = "locales/{locale}/2314a821-6c79-4cc6-9ed2-4fd3a7938b47.po"
+reference = "templates/snippets/breads.Country/4-japan.pot"
+l10n = "locales/{locale}/snippets/breads.Country/4-japan.po"
 
 [[paths]]
-reference = "templates/2314a821-6c79-4cc6-9ed2-4fd3a7938b47.pot"
-l10n = "locales/{locale}/2314a821-6c79-4cc6-9ed2-4fd3a7938b47.po"
+reference = "templates/snippets/breads.Country/4-japan.pot"
+l10n = "locales/{locale}/snippets/breads.Country/4-japan.po"
 
 [[paths]]
-reference = "templates/5add19b7-0723-49cc-9f76-63164416c8dd.pot"
-l10n = "locales/{locale}/5add19b7-0723-49cc-9f76-63164416c8dd.po"
+reference = "templates/snippets/breads.BreadType/5-sweet-bun.pot"
+l10n = "locales/{locale}/snippets/breads.BreadType/5-sweet-bun.po"
 
 [[paths]]
-reference = "templates/5add19b7-0723-49cc-9f76-63164416c8dd.pot"
-l10n = "locales/{locale}/5add19b7-0723-49cc-9f76-63164416c8dd.po"
+reference = "templates/snippets/breads.BreadType/5-sweet-bun.pot"
+l10n = "locales/{locale}/snippets/breads.BreadType/5-sweet-bun.po"
 
 [[paths]]
-reference = "templates/04a78e9c-6cfc-4534-bc67-bfac0a81ebfe.pot"
-l10n = "locales/{locale}/04a78e9c-6cfc-4534-bc67-bfac0a81ebfe.po"
+reference = "templates/snippets/breads.Country/5-india-kerala-sri-lanka.pot"
+l10n = "locales/{locale}/snippets/breads.Country/5-india-kerala-sri-lanka.po"
 
 [[paths]]
-reference = "templates/04a78e9c-6cfc-4534-bc67-bfac0a81ebfe.pot"
-l10n = "locales/{locale}/04a78e9c-6cfc-4534-bc67-bfac0a81ebfe.po"
+reference = "templates/snippets/breads.Country/5-india-kerala-sri-lanka.pot"
+l10n = "locales/{locale}/snippets/breads.Country/5-india-kerala-sri-lanka.po"
 
 [[paths]]
-reference = "templates/832c1cb8-2c41-4b50-8555-932b092ee497.pot"
-l10n = "locales/{locale}/832c1cb8-2c41-4b50-8555-932b092ee497.po"
+reference = "templates/snippets/breads.BreadType/6-varies-widely.pot"
+l10n = "locales/{locale}/snippets/breads.BreadType/6-varies-widely.po"
 
 [[paths]]
-reference = "templates/832c1cb8-2c41-4b50-8555-932b092ee497.pot"
-l10n = "locales/{locale}/832c1cb8-2c41-4b50-8555-932b092ee497.po"
+reference = "templates/snippets/breads.BreadType/6-varies-widely.pot"
+l10n = "locales/{locale}/snippets/breads.BreadType/6-varies-widely.po"
 
 [[paths]]
-reference = "templates/b8f8e603-ca50-4131-ab56-0cdcb1870e3d.pot"
-l10n = "locales/{locale}/b8f8e603-ca50-4131-ab56-0cdcb1870e3d.po"
+reference = "templates/snippets/breads.Country/6-south-america-northern.pot"
+l10n = "locales/{locale}/snippets/breads.Country/6-south-america-northern.po"
 
 [[paths]]
-reference = "templates/b8f8e603-ca50-4131-ab56-0cdcb1870e3d.pot"
-l10n = "locales/{locale}/b8f8e603-ca50-4131-ab56-0cdcb1870e3d.po"
+reference = "templates/snippets/breads.Country/6-south-america-northern.pot"
+l10n = "locales/{locale}/snippets/breads.Country/6-south-america-northern.po"
 
 [[paths]]
-reference = "templates/6adc5f19-a44b-4ba8-95c7-2086fde4c98e.pot"
-l10n = "locales/{locale}/6adc5f19-a44b-4ba8-95c7-2086fde4c98e.po"
+reference = "templates/snippets/breads.BreadType/7-cornbread.pot"
+l10n = "locales/{locale}/snippets/breads.BreadType/7-cornbread.po"
 
 [[paths]]
-reference = "templates/6adc5f19-a44b-4ba8-95c7-2086fde4c98e.pot"
-l10n = "locales/{locale}/6adc5f19-a44b-4ba8-95c7-2086fde4c98e.po"
+reference = "templates/snippets/breads.BreadType/7-cornbread.pot"
+l10n = "locales/{locale}/snippets/breads.BreadType/7-cornbread.po"
 
 [[paths]]
-reference = "templates/52cf7a17-1996-43a1-812e-6715efa63b68.pot"
-l10n = "locales/{locale}/52cf7a17-1996-43a1-812e-6715efa63b68.po"
+reference = "templates/snippets/breads.Country/8-polishashkenazi-jewish.pot"
+l10n = "locales/{locale}/snippets/breads.Country/8-polishashkenazi-jewish.po"
 
 [[paths]]
-reference = "templates/52cf7a17-1996-43a1-812e-6715efa63b68.pot"
-l10n = "locales/{locale}/52cf7a17-1996-43a1-812e-6715efa63b68.po"
+reference = "templates/snippets/breads.Country/8-polishashkenazi-jewish.pot"
+l10n = "locales/{locale}/snippets/breads.Country/8-polishashkenazi-jewish.po"
 
 [[paths]]
-reference = "templates/9c1c7ef1-50f1-4d1f-844d-de4e0eb23b66.pot"
-l10n = "locales/{locale}/9c1c7ef1-50f1-4d1f-844d-de4e0eb23b66.po"
+reference = "templates/snippets/breads.Country/9-france.pot"
+l10n = "locales/{locale}/snippets/breads.Country/9-france.po"
 
 [[paths]]
-reference = "templates/9c1c7ef1-50f1-4d1f-844d-de4e0eb23b66.pot"
-l10n = "locales/{locale}/9c1c7ef1-50f1-4d1f-844d-de4e0eb23b66.po"
+reference = "templates/snippets/breads.Country/9-france.pot"
+l10n = "locales/{locale}/snippets/breads.Country/9-france.po"
 
 [[paths]]
-reference = "templates/b1ffd8d4-3fb1-40bb-ab33-9cbecab57bd2.pot"
-l10n = "locales/{locale}/b1ffd8d4-3fb1-40bb-ab33-9cbecab57bd2.po"
+reference = "templates/snippets/breads.Country/11-jamaica.pot"
+l10n = "locales/{locale}/snippets/breads.Country/11-jamaica.po"
 
 [[paths]]
-reference = "templates/b1ffd8d4-3fb1-40bb-ab33-9cbecab57bd2.pot"
-l10n = "locales/{locale}/b1ffd8d4-3fb1-40bb-ab33-9cbecab57bd2.po"
+reference = "templates/snippets/breads.Country/11-jamaica.pot"
+l10n = "locales/{locale}/snippets/breads.Country/11-jamaica.po"
 
 [[paths]]
-reference = "templates/a034c584-21c3-4fc7-ba43-f6949a82c23c.pot"
-l10n = "locales/{locale}/a034c584-21c3-4fc7-ba43-f6949a82c23c.po"
+reference = "templates/snippets/breads.BreadType/2-flatbread.pot"
+l10n = "locales/{locale}/snippets/breads.BreadType/2-flatbread.po"
 
 [[paths]]
-reference = "templates/a034c584-21c3-4fc7-ba43-f6949a82c23c.pot"
-l10n = "locales/{locale}/a034c584-21c3-4fc7-ba43-f6949a82c23c.po"
+reference = "templates/snippets/breads.BreadType/2-flatbread.pot"
+l10n = "locales/{locale}/snippets/breads.BreadType/2-flatbread.po"
 
 [[paths]]
-reference = "templates/a49a62c9-996b-4b95-8665-62931132f0f7.pot"
-l10n = "locales/{locale}/a49a62c9-996b-4b95-8665-62931132f0f7.po"
+reference = "templates/snippets/breads.Country/18-libya.pot"
+l10n = "locales/{locale}/snippets/breads.Country/18-libya.po"
 
 [[paths]]
-reference = "templates/a49a62c9-996b-4b95-8665-62931132f0f7.pot"
-l10n = "locales/{locale}/a49a62c9-996b-4b95-8665-62931132f0f7.po"
+reference = "templates/snippets/breads.Country/18-libya.pot"
+l10n = "locales/{locale}/snippets/breads.Country/18-libya.po"
 
 [[paths]]
-reference = "templates/3fff0527-02cd-4942-923f-8cd2e4c34981.pot"
-l10n = "locales/{locale}/3fff0527-02cd-4942-923f-8cd2e4c34981.po"
+reference = "templates/snippets/breads.BreadType/11-unleavened-bread.pot"
+l10n = "locales/{locale}/snippets/breads.BreadType/11-unleavened-bread.po"
 
 [[paths]]
-reference = "templates/3fff0527-02cd-4942-923f-8cd2e4c34981.pot"
-l10n = "locales/{locale}/3fff0527-02cd-4942-923f-8cd2e4c34981.po"
+reference = "templates/snippets/breads.BreadType/11-unleavened-bread.pot"
+l10n = "locales/{locale}/snippets/breads.BreadType/11-unleavened-bread.po"
 
 [[paths]]
-reference = "templates/f222ed42-67f8-4670-8d26-9133369de551.pot"
-l10n = "locales/{locale}/f222ed42-67f8-4670-8d26-9133369de551.po"
+reference = "templates/snippets/breads.Country/21-india-pakistan.pot"
+l10n = "locales/{locale}/snippets/breads.Country/21-india-pakistan.po"
 
 [[paths]]
-reference = "templates/f222ed42-67f8-4670-8d26-9133369de551.pot"
-l10n = "locales/{locale}/f222ed42-67f8-4670-8d26-9133369de551.po"
+reference = "templates/snippets/breads.Country/21-india-pakistan.pot"
+l10n = "locales/{locale}/snippets/breads.Country/21-india-pakistan.po"
 
 [[paths]]
-reference = "templates/3f829cbb-2bdf-4be6-a99f-a1d37afe694f.pot"
-l10n = "locales/{locale}/3f829cbb-2bdf-4be6-a99f-a1d37afe694f.po"
+reference = "templates/snippets/breads.BreadType/14-unleavened-flatbread.pot"
+l10n = "locales/{locale}/snippets/breads.BreadType/14-unleavened-flatbread.po"
 
 [[paths]]
-reference = "templates/3f829cbb-2bdf-4be6-a99f-a1d37afe694f.pot"
-l10n = "locales/{locale}/3f829cbb-2bdf-4be6-a99f-a1d37afe694f.po"
+reference = "templates/snippets/breads.BreadType/14-unleavened-flatbread.pot"
+l10n = "locales/{locale}/snippets/breads.BreadType/14-unleavened-flatbread.po"
 
 [[paths]]
-reference = "templates/8f3d627a-d934-41dd-89b3-85d388dc2329.pot"
-l10n = "locales/{locale}/8f3d627a-d934-41dd-89b3-85d388dc2329.po"
+reference = "templates/snippets/breads.Country/12-scandinavia.pot"
+l10n = "locales/{locale}/snippets/breads.Country/12-scandinavia.po"
 
 [[paths]]
-reference = "templates/8f3d627a-d934-41dd-89b3-85d388dc2329.pot"
-l10n = "locales/{locale}/8f3d627a-d934-41dd-89b3-85d388dc2329.po"
+reference = "templates/snippets/breads.Country/12-scandinavia.pot"
+l10n = "locales/{locale}/snippets/breads.Country/12-scandinavia.po"
 
 [[paths]]
-reference = "templates/c6edd856-2529-4c1e-a295-048a0d1b3063.pot"
-l10n = "locales/{locale}/c6edd856-2529-4c1e-a295-048a0d1b3063.po"
+reference = "templates/snippets/breads.BreadType/16-rye-bread.pot"
+l10n = "locales/{locale}/snippets/breads.BreadType/16-rye-bread.po"
 
 [[paths]]
-reference = "templates/c6edd856-2529-4c1e-a295-048a0d1b3063.pot"
-l10n = "locales/{locale}/c6edd856-2529-4c1e-a295-048a0d1b3063.po"
+reference = "templates/snippets/breads.BreadType/16-rye-bread.pot"
+l10n = "locales/{locale}/snippets/breads.BreadType/16-rye-bread.po"
 
 [[paths]]
-reference = "templates/cb707580-fc47-43f5-ba52-e7a4d80bfec8.pot"
-l10n = "locales/{locale}/cb707580-fc47-43f5-ba52-e7a4d80bfec8.po"
+reference = "templates/snippets/breads.Country/24-afghanistan.pot"
+l10n = "locales/{locale}/snippets/breads.Country/24-afghanistan.po"
 
 [[paths]]
-reference = "templates/cb707580-fc47-43f5-ba52-e7a4d80bfec8.pot"
-l10n = "locales/{locale}/cb707580-fc47-43f5-ba52-e7a4d80bfec8.po"
+reference = "templates/snippets/breads.Country/24-afghanistan.pot"
+l10n = "locales/{locale}/snippets/breads.Country/24-afghanistan.po"
 

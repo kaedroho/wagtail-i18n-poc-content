@@ -1,0 +1,67 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-07-02 09:52:56.496319+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 451df893-97cb-456f-8e48-702de00ea442\n"
+
+msgctxt "title"
+msgid "Welcome to the Wagtail Bakery!"
+msgstr "Welcome to the Wagtail Bakery!"
+
+msgctxt "seo_title"
+msgid "Home"
+msgstr "Home"
+
+msgctxt "hero_text"
+msgid "A sample site designed to demonstrate the capabilities of the Wagtail Content Management System."
+msgstr "Un exemple de site conçu pour démontrer les capacités du système de gestion de contenu Bergeronnette."
+
+msgctxt "hero_cta"
+msgid "Learn more about Wagtail"
+msgstr "sdfsdf"
+
+msgctxt "body.4f36c325-a7fb-4605-be73-52995c2afca4"
+msgid ""
+"<b>Bread</b> is a <a id=\"a1\">staple food</a> prepared from a <a id=\"a2\">dough</a> of <a id=\"a3\">flour</a> and <a id=\"a4\">water</a>, usually by <a id=\"a5\">baking</a>. Throughout recorded "
+"history it has been popular around the world and is one of the oldest artificial foods, having been of importance since the dawn of <a id=\"a6\">agriculture</a>."
+msgstr ""
+"<b>Bread</b> is a <a id=\"a1\">staple food</a> prepared from a <a id=\"a2\">dough</a> of <a id=\"a3\">flour</a> and <a id=\"a4\">water</a>, usually by <a id=\"a5\">baking</a>. Throughout recorded "
+"history it has been popular around the world and is one of the oldest artificial foods, having been of importance since the dawn of <a id=\"a6\">agriculture</a>."
+
+msgctxt "body.4f36c325-a7fb-4605-be73-52995c2afca4"
+msgid ""
+"Proportions of types of flour and other ingredients vary widely, as do modes of preparation. As a result, types, shapes, sizes, and textures of breads differ around the world. Bread may be <a "
+"id=\"a1\">leavened</a> by processes such as reliance on naturally occurring <a id=\"a2\">sourdough</a> microbes, chemicals, industrially produced yeast, or high-pressure aeration. Some bread is "
+"cooked before it can leaven, including for traditional or religious reasons. Non-cereal ingredients such as fruits, nuts and fats may be included. Commercial bread commonly contains additives to "
+"improve flavor, texture, color, shelf life, and ease of manufacturing."
+msgstr ""
+"Proportions of types of flour and other ingredients vary widely, as do modes of preparation. As a result, types, shapes, sizes, and textures of breads differ around the world. Bread may be <a "
+"id=\"a1\">leavened</a> by processes such as reliance on naturally occurring <a id=\"a2\">sourdough</a> microbes, chemicals, industrially produced yeast, or high-pressure aeration. Some bread is "
+"cooked before it can leaven, including for traditional or religious reasons. Non-cereal ingredients such as fruits, nuts and fats may be included. Commercial bread commonly contains additives to "
+"improve flavor, texture, color, shelf life, and ease of manufacturing."
+
+msgctxt "promo_title"
+msgid "Our most excellent bread"
+msgstr "Our most excellent bread"
+
+msgctxt "promo_text"
+msgid ""
+"There&#39;s a lot that we can say about our bread but frankly we think you need to taste it to believe it. Crafted from lines of Python, Django and the old staples of HTML, CSS and JS we think "
+"you&#39;ll love what we&#39;re baking. With our demonstrations across our fair Island you&#39;re never far from a treat. Come visit us whenever you&#39;re nearby."
+msgstr ""
+"There&#39;s a lot that we can say about our bread but frankly we think you need to taste it to believe it. Crafted from lines of Python, Django and the old staples of HTML, CSS and JS we think "
+"you&#39;ll love what we&#39;re baking. With our demonstrations across our fair Island you&#39;re never far from a treat. Come visit us whenever you&#39;re nearby."
+
+msgctxt "featured_section_1_title"
+msgid "Breads"
+msgstr "Breads"
+
+msgctxt "featured_section_2_title"
+msgid "Locations"
+msgstr "Locations"
+
+msgctxt "featured_section_3_title"
+msgid "Blog"
+msgstr "Blog"

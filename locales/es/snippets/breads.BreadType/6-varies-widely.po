@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-07-02 09:52:57.799890+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: ba9162a4-b747-4490-8677-bbbaef5c2fbe\n"
+
+msgctxt "title"
+msgid "Varies widely"
+msgstr ""

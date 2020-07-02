@@ -1,0 +1,15 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-07-02 09:52:56.561911+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: beac5315-35a8-43a8-948e-c2c53c3f40be\n"
+
+msgctxt "title"
+msgid "Breads"
+msgstr ""
+
+msgctxt "introduction"
+msgid "We feature outlandishly delicious breads sourced from every continent (except Antarctica)"
+msgstr ""

@@ -1,0 +1,18 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-07-02 09:52:57.649284+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Blog"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Wagtail Bakeries Blog"
+msgstr ""
+
+msgctxt "introduction"
+msgid "Welcome to our awesome blog"
+msgstr ""
