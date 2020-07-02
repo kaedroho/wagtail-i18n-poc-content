@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-07-02 09:49:05.768541+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 5f5d1556-0262-47b5-a2d3-416a8ffdd177\n"
+
+msgctxt "title"
+msgid "Sweet bun"
+msgstr ""

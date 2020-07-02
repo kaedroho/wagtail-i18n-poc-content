@@ -1,0 +1,68 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-07-02 09:49:05.317581+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "The Great Icelandic Baking Show"
+msgstr ""
+
+msgctxt "subtitle"
+msgid "Viking bakeries and Norse donuts"
+msgstr ""
+
+msgctxt "introduction"
+msgid "Nordic bread culture has existed in Denmark, Finland, Norway, and Sweden from prehistoric time through to the present."
+msgstr ""
+
+msgctxt "body.1ff27a48-6ecc-4b65-8797-f79267f13de4"
+msgid ""
+"Four grain types dominated in the Nordic countries: barley and rye are the oldest; wheat and oats are more recent. During the Iron Age (500 AD – 1050 AD), rye became the most commonly used grain, "
+"followed by barley and oats. Rye was also the most commonly used grain for bread up until the beginning of the 20th century. Today, older grain types such as emmer and spelt are once again being "
+"cultivated and new bread types are being developed from these grains."
+msgstr ""
+
+msgctxt "body.1ff27a48-6ecc-4b65-8797-f79267f13de4"
+msgid ""
+"Archaeological finds in Denmark indicate use of the two triticum (wheat) species, emmer and einkorn, during the Mesolithic Period (8900 BC – 3900 BC). There is no direct evidence of bread-making, "
+"but cereals have been crushed, cooked and served as porridge since at least 4,200 BC. During the Neolithic Period (3900 BC – 1800 BC), when agriculture was introduced, barley seems to have taken "
+"over to some extent, and ceramic plates apparently used for baking are found. Moulded cereals, with water added to make a dough and baked or fried in the shape of bread, are known as burial gifts in"
+" Iron Age graves (200 AD onwards) in the Mälardalen area of central Sweden. However, it is not certain that this bread was eaten; it could just have been a burial gift. During the Bronze Age (1800 "
+"BC – 500 AD), oats and the triticum species spelt seem to have been the most commonly used grains, and we see the first real ovens, probably used for baking small loaves and perhaps the first bread "
+"(probably around 400 AD)."
+msgstr ""
+
+msgctxt "body.161843d3-c6de-416a-ae78-26ae2eef8660.caption"
+msgid "Baking Soda"
+msgstr ""
+
+msgctxt "body.ffb538b8-044e-4139-94fb-7a87ef3d7d4b.attribution"
+msgid "Creative Commons"
+msgstr ""
+
+msgctxt "body.1cfa41c1-cfeb-4974-8453-8a4b3425842f"
+msgid ""
+"Scandinavian soldiers in Roman times apparently learned baking techniques when working as mercenaries in the Roman army (200–400 AD). They subsequently took the technique home with them to show that"
+" they had been employed in high status work on the continent[citation needed]. Early Christian traditions promoted an interest in bread. Culturally, German traditions have influenced most of the "
+"bread types in the Nordic countries. In the eastern part of Finland, there is a cultural link to Russia and Slavic bread traditions."
+msgstr ""
+
+msgctxt "body.1cfa41c1-cfeb-4974-8453-8a4b3425842f"
+msgid ""
+"In the Nordic countries, bread was the main part of a meal until the late 18th century. Four different bread regions can be found in the Nordic area in the late 19th century. In the south, soft rye "
+"bread dominated. Further north came crisp bread, usually baked with rye, then thin and crispy barley bread. In the far north, soft barley loaves dominated. During the 19th century, potatoes began to"
+" become the centrepiece of meals and bread was put aside as an extra source of carbohydrates in a meal. Bread still retained its key function for breakfast, as the open sandwich is a starter for "
+"most Nordic people today and potatoes are used as a centrepiece in lunches and dinners."
+msgstr ""
+
+msgctxt "body.ffb538b8-044e-4139-94fb-7a87ef3d7d4b.caption"
+msgid "Fresh baked"
+msgstr ""
+
+msgctxt "body.20f6898d-0a5e-4bd0-a785-d18d4160d4e7"
+msgid ""
+"A history of Nordic bread from around 1000 AD and some contemporary types and bread innovations is presented below. Countries are presented in alphabetic order (Denmark, Finland, Iceland, Norway and"
+" Sweden). The names of the bread types are mostly given in both the contemporary national language and in English."
+msgstr ""

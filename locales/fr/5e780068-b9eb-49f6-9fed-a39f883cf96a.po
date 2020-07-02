@@ -1,0 +1,15 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-07-02 09:49:04.736466+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 5fb24713-5cf7-4869-9662-a1169984825c\n"
+
+msgctxt "title"
+msgid "Bagel"
+msgstr ""
+
+msgctxt "introduction"
+msgid "Though the origins of bagels are somewhat obscure, it is known that they were widely consumed in eastern European Jewish communities from the 17th century."
+msgstr ""

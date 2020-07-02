@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-07-02 09:49:04.589984+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 71e50615-3cea-4664-b97c-a79093493dca\n"
+
+msgctxt "title"
+msgid "Anadama"
+msgstr "Anadama"
+
+msgctxt "introduction"
+msgid ""
+"It is not readily agreed exactly when or where the bread originated, except it existed before 1850 in Rockport, Massachusetts. It is thought to have come from the local fishing community, but it may"
+" have come through the Finnish community of local stonecutters."
+msgstr ""
+"Il est pas facilement d&#39;accord exactement quand et où le pain est originaire, sauf qu&#39;il existait avant 1850 à Rockport, Massachusetts. On pense venir de la communauté locale de la pêche, "
+"mais il a peut-être passer par la communauté finlandaise des tailleurs de pierre locaux."

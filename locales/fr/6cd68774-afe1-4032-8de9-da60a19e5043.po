@@ -1,0 +1,53 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-07-02 09:49:05.436378+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 80387023-7ab9-4a1f-8fc9-1e98dc14d435\n"
+
+msgctxt "title"
+msgid "Desserts with Benefits"
+msgstr ""
+
+msgctxt "subtitle"
+msgid "Banana toffee chocolate pie?"
+msgstr ""
+
+msgctxt "introduction"
+msgid "A Boston cream pie is a yellow butter cake that is filled with custard or cream and topped with chocolate glaze."
+msgstr ""
+
+msgctxt "body.17375d88-100d-4c05-a147-1885364e9037"
+msgid ""
+"Despite its name, it is in fact a cake, and not a pie.[2] The dessert acquired its name when cakes and pies were cooked in the same pans, and the words were used interchangeably.[3] In the latter "
+"part of the 19th century, this type of cake was variously called a &quot;cream pie&quot;, a &quot;chocolate cream pie&quot;, or a &quot;custard cake&quot;.[3]"
+msgstr ""
+
+msgctxt "body.17375d88-100d-4c05-a147-1885364e9037"
+msgid ""
+"Owners of the Parker House Hotel in Boston claim that the Boston cream pie was first created at the hotel by Armenian-French chef M. Sanzian in 1856.[4] Called a &quot;Chocolate Cream Pie&quot;, "
+"this cake consisted of two layers of French butter sponge cake filled with crème pâtissière and brushed with a rum syrup, its side coated with crème pâtissière overlain with toasted sliced almonds, "
+"and the top coated with chocolate fondant.[5] However, historians dispute this claim to primacy; while this cake may have been served then, there is no specific contemporaneous evidence of it, and "
+"custard-filled cake was already popular at that time.[3]"
+msgstr ""
+
+msgctxt "body.a34deae5-e168-416e-838b-8ab8370e9c5f.caption"
+msgid "Central Bakery"
+msgstr ""
+
+msgctxt "body.a34deae5-e168-416e-838b-8ab8370e9c5f.attribution"
+msgid "Creative Commons"
+msgstr ""
+
+msgctxt "body.57d48133-937e-42ed-83b6-1cababb0181e"
+msgid ""
+"The cake is likely derived from the Washington pie, a two-layer yellow cake filled with jam and topped with confectioner&#39;s sugar, for which pastry cream of custard eventually replaced the jam, "
+"and a chocolate glaze replaced the confectioner&#39;s sugar.[2] Today, the cake is topped with a chocolate glaze (such as ganache) and sometimes powdered sugar or a cherry."
+msgstr ""
+
+msgctxt "body.57d48133-937e-42ed-83b6-1cababb0181e"
+msgid ""
+"The name first appeared in the 1872 Methodist Almanac.[3] Another early printed use of the term &quot;Boston cream pie&quot; occurred in the Granite Iron Ware Cook Book, printed in 1878.[2] The "
+"earliest known recipe of the modern variant was printed in Miss Parloa&#39;s Kitchen Companion in 1887 as &quot;Chocolate Cream Pie&quot;.[2]"
+msgstr ""
