@@ -7,8 +7,8 @@ msgstr ""
 "X-WagtailLocalize-TranslationID: e79e4462-158a-4558-92db-456811b72706\n"
 
 msgctxt "title"
-msgid "Welcome to the Wagtail Bakery! Changed english content"
-msgstr "Test"
+msgid "Welcome to the Wagtail Bakery!"
+msgstr ""
 
 msgctxt "seo_title"
 msgid "Home"
