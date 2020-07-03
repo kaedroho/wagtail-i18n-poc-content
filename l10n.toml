@@ -1,9 +1,5 @@
 locales = [ "es-ES", "es-MX", "fr", "ja",]
 [[paths]]
-reference = "templates/pages/home.pot"
-l10n = "locales/{locale}/pages/home.po"
-
-[[paths]]
 reference = "templates/pages/home/breads.pot"
 l10n = "locales/{locale}/pages/home/breads.po"
 
@@ -194,4 +190,8 @@ l10n = "locales/{locale}/pages/home/contact-us.po"
 [[paths]]
 reference = "templates/pages/home/about.pot"
 l10n = "locales/{locale}/pages/home/about.po"
+
+[[paths]]
+reference = "templates/pages/home.pot"
+l10n = "locales/{locale}/pages/home.po"
 

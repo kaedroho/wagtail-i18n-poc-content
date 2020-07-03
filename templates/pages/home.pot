@@ -6,7 +6,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 
 msgctxt "title"
-msgid "Welcome to the Wagtail Bakery!"
+msgid "Welcome to the Wagtail Bakery! Changed english content"
 msgstr ""
 
 msgctxt "seo_title"
