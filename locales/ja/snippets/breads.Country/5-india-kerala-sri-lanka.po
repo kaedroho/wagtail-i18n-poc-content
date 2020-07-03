@@ -1,0 +1,13 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-07-03 15:35:09.837709+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 28bf7d07-6766-4c05-91d4-faa585cbe7af\n"
+
+msgctxt "title"
+msgid ""
+"India (Kerala)\n"
+"Sri Lanka"
+msgstr ""

@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-07-03 15:35:10.131180+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: aca51190-7df6-4e46-b102-61a061956197\n"
+
+msgctxt "title"
+msgid "Libya"
+msgstr ""

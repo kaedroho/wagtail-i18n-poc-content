@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-07-03 15:35:09.959282+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: c08fd3f8-f84d-4a6e-b1bc-81335ac1c9bb\n"
+
+msgctxt "title"
+msgid "Polish/Ashkenazi Jewish"
+msgstr ""

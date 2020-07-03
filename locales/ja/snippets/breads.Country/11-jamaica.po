@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-07-03 15:35:10.060314+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: d191028c-5dc5-44e8-b33b-db0494321d6a\n"
+
+msgctxt "title"
+msgid "Jamaica"
+msgstr ""

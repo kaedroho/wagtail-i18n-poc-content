@@ -1,0 +1,61 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-07-03 15:35:10.869667+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 40c1d7c9-5d90-4f16-afbb-199b50ebea5f\n"
+
+msgctxt "title"
+msgid "Contact Us"
+msgstr ""
+
+msgctxt "body.0d23e3bf-de90-4861-a6a1-294717248d95"
+msgid "We&#39;d love to hear from you! Drop us a line to let us know what you liked or didn&#39;t like about your recent store visit, or if you have comments or questions about this site."
+msgstr ""
+
+msgctxt "body.0d23e3bf-de90-4861-a6a1-294717248d95"
+msgid ""
+"This form is for demo purposes only - email goes nowhere. Developers:  Edit the &quot;To Address&quot; field in the Form object in the Wagtail admin, and see the Email notes in the project readme to"
+" make your instance send live email."
+msgstr ""
+
+msgctxt "thank_you_text"
+msgid "Thanks!"
+msgstr ""
+
+msgctxt "thank_you_text"
+msgid "We&#39;ve received your message and will get back to you shortly."
+msgstr ""
+
+msgctxt "form_fields.d9d97502-7726-4116-92b6-e359037d8005.label"
+msgid "Subject"
+msgstr ""
+
+msgctxt "form_fields.a260686f-2079-463c-94c0-7abc5a952f24.label"
+msgid "Your Name"
+msgstr ""
+
+msgctxt "form_fields.be04c86a-dba6-457b-a292-035c376ed65b.label"
+msgid "Your Email"
+msgstr ""
+
+msgctxt "form_fields.be04c86a-dba6-457b-a292-035c376ed65b.default_value"
+msgid "you@example.com"
+msgstr ""
+
+msgctxt "form_fields.6a84c524-28de-4a68-ba18-b05b659b56a3.label"
+msgid "Purpose"
+msgstr ""
+
+msgctxt "form_fields.6a84c524-28de-4a68-ba18-b05b659b56a3.choices"
+msgid "Comment, Question, Feedback"
+msgstr ""
+
+msgctxt "form_fields.a46f6dc3-146f-459e-b69a-a422be7e1830.label"
+msgid "Body"
+msgstr ""
+
+msgctxt "form_fields.a46f6dc3-146f-459e-b69a-a422be7e1830.help_text"
+msgid "What&#39;s on your mind?"
+msgstr ""

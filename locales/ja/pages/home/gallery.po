@@ -1,0 +1,15 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-07-03 15:35:10.842279+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: cffc78e5-6584-4920-a265-9b4cbabed01c\n"
+
+msgctxt "title"
+msgid "Gallery"
+msgstr ""
+
+msgctxt "introduction"
+msgid "Some of our best-baked images, from around the world."
+msgstr ""
