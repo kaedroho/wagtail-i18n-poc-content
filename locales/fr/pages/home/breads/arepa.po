@@ -1,0 +1,15 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-07-03 15:05:53.949025+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: a3e07580-8262-44d6-be17-802ae3d969f7\n"
+
+msgctxt "title"
+msgid "Arepa"
+msgstr ""
+
+msgctxt "introduction"
+msgid "Arepa  is a type of food made of ground maize dough or cooked flour prominent in the cuisine of Colombia and Venezuela."
+msgstr ""

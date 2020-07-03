@@ -1,0 +1,14 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-07-03 15:05:54.345544+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Gallery"
+msgstr ""
+
+msgctxt "introduction"
+msgid "Some of our best-baked images, from around the world."
+msgstr ""

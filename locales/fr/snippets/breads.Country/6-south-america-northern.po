@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-07-03 15:05:53.959214+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 7d6b5607-91a7-4806-b106-8abba407926f\n"
+
+msgctxt "title"
+msgid "South America (Northern)"
+msgstr ""

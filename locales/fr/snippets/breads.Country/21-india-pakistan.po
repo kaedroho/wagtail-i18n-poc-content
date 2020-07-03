@@ -1,0 +1,13 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-07-03 15:05:54.105700+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 7e0b1dce-693f-47e5-ada7-a5612d1d6459\n"
+
+msgctxt "title"
+msgid ""
+"India\n"
+"Pakistan"
+msgstr ""

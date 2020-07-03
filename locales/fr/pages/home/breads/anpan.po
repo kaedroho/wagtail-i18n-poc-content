@@ -1,0 +1,17 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-07-03 15:05:53.883859+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: d38946dd-4f7d-48d1-a529-9f9a11e53512\n"
+
+msgctxt "title"
+msgid "Anpan"
+msgstr ""
+
+msgctxt "introduction"
+msgid ""
+"Anpan was first made in 1875, during the Meiji period, by a man called Yasubei Kimura, a samurai who lost his job with the rise of the conscript Imperial Army and the dissolution of the samurai as a"
+" social class."
+msgstr ""
